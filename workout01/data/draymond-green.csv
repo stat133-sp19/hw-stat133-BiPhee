@@ -1,0 +1,579 @@
+"","team_name","game_date","season","period","minutes_remaining","seconds_remaining","shot_made_flag","action_type","shot_type","shot_distance","opponent","x","y","name","minute"
+"1","Golden State Warriors","3/5/17",2016,3,7,50,"shot_yes","Alley Oop Layup shot","2PT Field Goal",1,"New York Knicks",17,2,"Draymond Green",29
+"2","Golden State Warriors","12/30/16",2016,3,7,48,"shot_yes","Alley Oop Layup shot","2PT Field Goal",1,"Dallas Mavericks",9,7,"Draymond Green",29
+"3","Golden State Warriors","1/16/17",2016,1,9,6,"shot_yes","Alley Oop Layup shot","2PT Field Goal",1,"Cleveland Cavaliers",4,11,"Draymond Green",3
+"4","Golden State Warriors","12/7/16",2016,2,0,43,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Draymond Green",24
+"5","Golden State Warriors","11/19/16",2016,1,8,43,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,"Draymond Green",4
+"6","Golden State Warriors","1/22/17",2016,3,9,27,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,"Draymond Green",27
+"7","Golden State Warriors","11/4/16",2016,4,6,6,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,"Draymond Green",42
+"8","Golden State Warriors","3/16/17",2016,3,1,20,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,"Draymond Green",35
+"9","Golden State Warriors","2/4/17",2016,4,0,57,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Draymond Green",48
+"10","Golden State Warriors","12/20/16",2016,3,3,22,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,"Draymond Green",33
+"11","Golden State Warriors","1/2/17",2016,1,10,50,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,"Draymond Green",2
+"12","Golden State Warriors","12/25/16",2016,4,1,31,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,"Draymond Green",47
+"13","Golden State Warriors","11/21/16",2016,1,8,13,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,"Draymond Green",4
+"14","Golden State Warriors","1/20/17",2016,2,2,22,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Draymond Green",22
+"15","Golden State Warriors","2/27/17",2016,1,5,36,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,"Draymond Green",7
+"16","Golden State Warriors","11/16/16",2016,2,3,43,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,"Draymond Green",21
+"17","Golden State Warriors","2/27/17",2016,4,4,21,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,"Draymond Green",44
+"18","Golden State Warriors","11/9/16",2016,4,8,48,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,"Draymond Green",40
+"19","Golden State Warriors","12/7/16",2016,1,6,31,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Draymond Green",6
+"20","Golden State Warriors","3/28/17",2016,1,9,6,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Draymond Green",3
+"21","Golden State Warriors","3/20/17",2016,3,9,8,"shot_no","Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Draymond Green",27
+"22","Golden State Warriors","3/18/17",2016,1,1,7,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,"Draymond Green",11
+"23","Golden State Warriors","11/19/16",2016,1,8,19,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,"Draymond Green",4
+"24","Golden State Warriors","10/30/16",2016,1,1,58,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,"Draymond Green",11
+"25","Golden State Warriors","3/21/17",2016,2,3,24,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,"Draymond Green",21
+"26","Golden State Warriors","12/25/16",2016,2,8,48,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-6,7,"Draymond Green",16
+"27","Golden State Warriors","1/25/17",2016,3,6,54,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-17,2,"Draymond Green",30
+"28","Golden State Warriors","11/13/16",2016,4,2,39,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Phoenix Suns",1,8,"Draymond Green",46
+"29","Golden State Warriors","10/25/16",2016,1,9,28,"shot_no","Cutting Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-19,3,"Draymond Green",3
+"30","Golden State Warriors","12/15/16",2016,3,9,39,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"New York Knicks",0,13,"Draymond Green",27
+"31","Golden State Warriors","1/29/17",2016,1,6,16,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-15,-1,"Draymond Green",6
+"32","Golden State Warriors","1/2/17",2016,4,0,53,"shot_yes","Cutting Layup Shot","2PT Field Goal",2,"Denver Nuggets",6,21,"Draymond Green",48
+"33","Golden State Warriors","12/28/16",2016,3,7,14,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Toronto Raptors",4,8,"Draymond Green",29
+"34","Golden State Warriors","2/11/17",2016,2,10,37,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-19,-6,"Draymond Green",14
+"35","Golden State Warriors","11/9/16",2016,1,2,15,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Dallas Mavericks",1,11,"Draymond Green",10
+"36","Golden State Warriors","2/10/17",2016,2,3,16,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-9,2,"Draymond Green",21
+"37","Golden State Warriors","10/25/16",2016,2,6,14,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"San Antonio Spurs",4,16,"Draymond Green",18
+"38","Golden State Warriors","11/25/16",2016,1,4,14,"shot_yes","Cutting Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-21,-2,"Draymond Green",8
+"39","Golden State Warriors","12/28/16",2016,2,4,16,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Toronto Raptors",-6,7,"Draymond Green",20
+"40","Golden State Warriors","12/7/16",2016,3,11,38,"shot_yes","Cutting Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",12,16,"Draymond Green",25
+"41","Golden State Warriors","11/25/16",2016,2,6,17,"shot_no","Cutting Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",1,21,"Draymond Green",18
+"42","Golden State Warriors","1/18/17",2016,1,7,54,"shot_no","Cutting Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-16,21,"Draymond Green",5
+"43","Golden State Warriors","12/5/16",2016,3,3,40,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Indiana Pacers",-2,13,"Draymond Green",33
+"44","Golden State Warriors","11/7/16",2016,1,4,1,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",1,16,"Draymond Green",8
+"45","Golden State Warriors","12/1/16",2016,1,5,41,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Houston Rockets",-7,13,"Draymond Green",7
+"46","Golden State Warriors","2/1/17",2016,4,10,36,"shot_no","Driving Bank Hook Shot","2PT Field Goal",7,"Charlotte Hornets",64,38,"Draymond Green",38
+"47","Golden State Warriors","11/13/16",2016,1,3,52,"shot_no","Driving Bank shot","2PT Field Goal",6,"Phoenix Suns",53,43,"Draymond Green",9
+"48","Golden State Warriors","12/20/16",2016,1,6,47,"shot_no","Driving Bank shot","2PT Field Goal",10,"Utah Jazz",92,46,"Draymond Green",6
+"49","Golden State Warriors","3/31/17",2016,2,3,5,"shot_yes","Driving Bank shot","2PT Field Goal",4,"Houston Rockets",-9,46,"Draymond Green",21
+"50","Golden State Warriors","12/30/16",2016,1,5,57,"shot_yes","Driving Bank shot","2PT Field Goal",3,"Dallas Mavericks",-9,31,"Draymond Green",7
+"51","Golden State Warriors","11/7/16",2016,4,5,17,"shot_yes","Driving Bank shot","2PT Field Goal",7,"New Orleans Pelicans",12,77,"Draymond Green",43
+"52","Golden State Warriors","4/4/17",2016,2,4,56,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,"Draymond Green",20
+"53","Golden State Warriors","2/28/17",2016,2,4,16,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,"Draymond Green",20
+"54","Golden State Warriors","1/2/17",2016,2,3,42,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,"Draymond Green",21
+"55","Golden State Warriors","12/1/16",2016,4,4,7,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Draymond Green",44
+"56","Golden State Warriors","2/11/17",2016,4,10,15,"shot_no","Driving Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Draymond Green",38
+"57","Golden State Warriors","2/10/17",2016,4,10,11,"shot_no","Driving Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",4,2,"Draymond Green",38
+"58","Golden State Warriors","3/18/17",2016,2,4,43,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,"Draymond Green",20
+"59","Golden State Warriors","2/8/17",2016,2,0,8,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,"Draymond Green",24
+"60","Golden State Warriors","3/16/17",2016,2,8,57,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,"Draymond Green",16
+"61","Golden State Warriors","3/31/17",2016,1,7,7,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Draymond Green",5
+"62","Golden State Warriors","2/27/17",2016,3,11,44,"shot_no","Driving Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,"Draymond Green",25
+"63","Golden State Warriors","2/23/17",2016,4,11,43,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Draymond Green",37
+"64","Golden State Warriors","11/28/16",2016,1,5,32,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,"Draymond Green",7
+"65","Golden State Warriors","12/25/16",2016,3,2,59,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,"Draymond Green",34
+"66","Golden State Warriors","1/18/17",2016,4,3,20,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Draymond Green",45
+"67","Golden State Warriors","1/16/17",2016,4,6,59,"shot_no","Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,"Draymond Green",42
+"68","Golden State Warriors","12/30/16",2016,3,5,17,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,"Draymond Green",31
+"69","Golden State Warriors","3/29/17",2016,1,11,21,"shot_no","Driving Finger Roll Layup Shot","2PT Field Goal",0,"San Antonio Spurs",6,-1,"Draymond Green",1
+"70","Golden State Warriors","4/4/17",2016,2,0,48,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-7,21,"Draymond Green",24
+"71","Golden State Warriors","2/28/17",2016,3,10,29,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",0,"Washington Wizards",6,2,"Draymond Green",26
+"72","Golden State Warriors","11/7/16",2016,1,11,45,"shot_no","Driving Floating Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",22,31,"Draymond Green",1
+"73","Golden State Warriors","11/16/16",2016,1,10,11,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",4,"Toronto Raptors",32,38,"Draymond Green",2
+"74","Golden State Warriors","10/30/16",2016,2,2,2,"shot_no","Driving Floating Jump Shot","2PT Field Goal",5,"Phoenix Suns",42,36,"Draymond Green",22
+"75","Golden State Warriors","3/28/17",2016,4,4,11,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",9,"Houston Rockets",19,90,"Draymond Green",44
+"76","Golden State Warriors","3/2/17",2016,3,6,57,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",11,"Chicago Bulls",19,111,"Draymond Green",30
+"77","Golden State Warriors","2/11/17",2016,3,0,25,"shot_no","Driving Floating Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",-9,70,"Draymond Green",36
+"78","Golden State Warriors","11/18/16",2016,3,4,18,"shot_no","Driving Floating Jump Shot","2PT Field Goal",12,"Boston Celtics",-119,21,"Draymond Green",32
+"79","Golden State Warriors","12/15/16",2016,3,7,58,"shot_no","Driving Floating Jump Shot","2PT Field Goal",5,"New York Knicks",-11,56,"Draymond Green",29
+"80","Golden State Warriors","4/4/17",2016,1,6,12,"shot_no","Driving Floating Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",-9,67,"Draymond Green",6
+"81","Golden State Warriors","11/16/16",2016,4,2,50,"shot_no","Driving Floating Jump Shot","2PT Field Goal",5,"Toronto Raptors",-14,56,"Draymond Green",46
+"82","Golden State Warriors","11/13/16",2016,1,4,17,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",8,"Phoenix Suns",4,82,"Draymond Green",8
+"83","Golden State Warriors","10/30/16",2016,4,8,17,"shot_no","Driving Floating Jump Shot","2PT Field Goal",5,"Phoenix Suns",10,51,"Draymond Green",40
+"84","Golden State Warriors","12/25/16",2016,4,3,49,"shot_yes","Driving Floating Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-58,41,"Draymond Green",45
+"85","Golden State Warriors","11/16/16",2016,3,3,56,"shot_no","Driving Hook Shot","2PT Field Goal",5,"Toronto Raptors",-29,51,"Draymond Green",33
+"86","Golden State Warriors","11/10/16",2016,3,0,44,"shot_no","Driving Hook Shot","2PT Field Goal",2,"Denver Nuggets",1,26,"Draymond Green",36
+"87","Golden State Warriors","3/16/17",2016,2,0,26,"shot_yes","Driving Hook Shot","2PT Field Goal",8,"Orlando Magic",4,80,"Draymond Green",24
+"88","Golden State Warriors","3/24/17",2016,3,11,34,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",-19,23,"Draymond Green",25
+"89","Golden State Warriors","12/1/16",2016,1,6,5,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",6,21,"Draymond Green",6
+"90","Golden State Warriors","1/16/17",2016,2,11,34,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",2,13,"Draymond Green",13
+"91","Golden State Warriors","3/18/17",2016,4,5,47,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-12,21,"Draymond Green",43
+"92","Golden State Warriors","3/2/17",2016,3,1,25,"shot_yes","Driving Layup Shot","2PT Field Goal",0,"Chicago Bulls",2,7,"Draymond Green",35
+"93","Golden State Warriors","2/11/17",2016,2,2,29,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",28,3,"Draymond Green",22
+"94","Golden State Warriors","11/21/16",2016,3,9,15,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",12,16,"Draymond Green",27
+"95","Golden State Warriors","3/2/17",2016,1,0,56,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",22,16,"Draymond Green",12
+"96","Golden State Warriors","2/11/17",2016,4,4,44,"shot_no","Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,-6,"Draymond Green",44
+"97","Golden State Warriors","2/13/17",2016,2,8,53,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",22,16,"Draymond Green",16
+"98","Golden State Warriors","3/6/17",2016,1,9,57,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",19,7,"Draymond Green",3
+"99","Golden State Warriors","10/25/16",2016,1,2,58,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-16,11,"Draymond Green",10
+"100","Golden State Warriors","1/8/17",2016,4,10,40,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",10,11,"Draymond Green",38
+"101","Golden State Warriors","3/28/17",2016,3,10,52,"shot_yes","Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",20,7,"Draymond Green",26
+"102","Golden State Warriors","1/6/17",2016,4,6,47,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-17,21,"Draymond Green",42
+"103","Golden State Warriors","1/29/17",2016,4,2,50,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",25,13,"Draymond Green",46
+"104","Golden State Warriors","11/28/16",2016,4,6,55,"shot_no","Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",6,13,"Draymond Green",42
+"105","Golden State Warriors","2/1/17",2016,2,1,47,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",1,11,"Draymond Green",23
+"106","Golden State Warriors","12/8/16",2016,1,9,37,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",27,7,"Draymond Green",3
+"107","Golden State Warriors","11/18/16",2016,4,1,29,"shot_no","Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-14,11,"Draymond Green",47
+"108","Golden State Warriors","12/1/16",2016,2,2,17,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",10,7,"Draymond Green",22
+"109","Golden State Warriors","11/16/16",2016,2,0,31,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",-20,18,"Draymond Green",24
+"110","Golden State Warriors","3/14/17",2016,4,3,7,"shot_no","Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",14,13,"Draymond Green",45
+"111","Golden State Warriors","11/4/16",2016,4,6,35,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",0,21,"Draymond Green",42
+"112","Golden State Warriors","12/8/16",2016,3,4,27,"shot_no","Driving Layup Shot","2PT Field Goal",3,"Utah Jazz",32,8,"Draymond Green",32
+"113","Golden State Warriors","3/5/17",2016,2,1,34,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"New York Knicks",10,-1,"Draymond Green",23
+"114","Golden State Warriors","10/30/16",2016,3,10,51,"shot_no","Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",4,16,"Draymond Green",26
+"115","Golden State Warriors","3/14/17",2016,2,4,45,"shot_yes","Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",2,8,"Draymond Green",20
+"116","Golden State Warriors","1/20/17",2016,3,11,51,"shot_yes","Driving Layup Shot","2PT Field Goal",3,"Houston Rockets",-38,11,"Draymond Green",25
+"117","Golden State Warriors","3/16/17",2016,3,7,26,"shot_yes","Driving Layup Shot","2PT Field Goal",0,"Orlando Magic",1,3,"Draymond Green",29
+"118","Golden State Warriors","3/5/17",2016,4,10,8,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-19,3,"Draymond Green",38
+"119","Golden State Warriors","12/30/16",2016,2,4,8,"shot_yes","Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",4,3,"Draymond Green",20
+"120","Golden State Warriors","3/2/17",2016,1,8,54,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-27,11,"Draymond Green",4
+"121","Golden State Warriors","12/23/16",2016,4,1,31,"shot_yes","Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,"Draymond Green",47
+"122","Golden State Warriors","12/7/16",2016,3,7,7,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Draymond Green",29
+"123","Golden State Warriors","2/4/17",2016,4,11,23,"shot_yes","Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Draymond Green",37
+"124","Golden State Warriors","3/28/17",2016,2,2,7,"shot_yes","Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Draymond Green",22
+"125","Golden State Warriors","1/28/17",2016,2,2,1,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Draymond Green",22
+"126","Golden State Warriors","12/25/16",2016,4,6,31,"shot_yes","Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,"Draymond Green",42
+"127","Golden State Warriors","1/18/17",2016,3,9,57,"shot_yes","Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Draymond Green",27
+"128","Golden State Warriors","11/25/16",2016,3,7,16,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,"Draymond Green",29
+"129","Golden State Warriors","11/9/16",2016,2,2,53,"shot_no","Fadeaway Bank shot","2PT Field Goal",14,"Dallas Mavericks",128,72,"Draymond Green",22
+"130","Golden State Warriors","1/20/17",2016,4,11,26,"shot_no","Fadeaway Jump Shot","2PT Field Goal",10,"Houston Rockets",105,3,"Draymond Green",37
+"131","Golden State Warriors","2/25/17",2016,3,11,44,"shot_no","Fadeaway Jump Shot","2PT Field Goal",17,"Brooklyn Nets",128,121,"Draymond Green",25
+"132","Golden State Warriors","2/23/17",2016,1,11,9,"shot_no","Fadeaway Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",-73,46,"Draymond Green",1
+"133","Golden State Warriors","11/4/16",2016,2,5,22,"shot_yes","Finger Roll Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-15,1,"Draymond Green",19
+"134","Golden State Warriors","12/25/16",2016,3,6,29,"shot_yes","Finger Roll Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-4,-5,"Draymond Green",30
+"135","Golden State Warriors","12/20/16",2016,2,4,40,"shot_yes","Floating Jump shot","2PT Field Goal",12,"Utah Jazz",2,120,"Draymond Green",20
+"136","Golden State Warriors","11/9/16",2016,1,11,39,"shot_no","Floating Jump shot","2PT Field Goal",9,"Dallas Mavericks",-1,97,"Draymond Green",1
+"137","Golden State Warriors","1/28/17",2016,2,10,35,"shot_no","Floating Jump shot","2PT Field Goal",10,"Los Angeles Clippers",6,105,"Draymond Green",14
+"138","Golden State Warriors","3/6/17",2016,3,4,54,"shot_no","Floating Jump shot","2PT Field Goal",3,"Atlanta Hawks",33,13,"Draymond Green",32
+"139","Golden State Warriors","3/26/17",2016,3,0,33,"shot_no","Floating Jump shot","2PT Field Goal",10,"Memphis Grizzlies",-91,51,"Draymond Green",36
+"140","Golden State Warriors","3/24/17",2016,2,1,56,"shot_yes","Floating Jump shot","2PT Field Goal",6,"Sacramento Kings",2,65,"Draymond Green",23
+"141","Golden State Warriors","1/6/17",2016,2,5,52,"shot_yes","Floating Jump shot","2PT Field Goal",12,"Memphis Grizzlies",91,90,"Draymond Green",19
+"142","Golden State Warriors","10/25/16",2016,2,7,22,"shot_no","Floating Jump shot","2PT Field Goal",6,"San Antonio Spurs",-1,61,"Draymond Green",17
+"143","Golden State Warriors","11/28/16",2016,3,6,33,"shot_no","Floating Jump shot","2PT Field Goal",4,"Atlanta Hawks",-1,47,"Draymond Green",30
+"144","Golden State Warriors","11/7/16",2016,4,3,51,"shot_no","Floating Jump shot","2PT Field Goal",9,"New Orleans Pelicans",89,39,"Draymond Green",45
+"145","Golden State Warriors","11/16/16",2016,4,4,1,"shot_no","Floating Jump shot","2PT Field Goal",6,"Toronto Raptors",9,61,"Draymond Green",44
+"146","Golden State Warriors","12/1/16",2016,4,7,5,"shot_no","Floating Jump shot","2PT Field Goal",10,"Houston Rockets",-63,90,"Draymond Green",41
+"147","Golden State Warriors","3/31/17",2016,1,6,16,"shot_no","Floating Jump shot","2PT Field Goal",12,"Houston Rockets",46,111,"Draymond Green",6
+"148","Golden State Warriors","3/20/17",2016,1,11,9,"shot_no","Floating Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-155,-11,"Draymond Green",1
+"149","Golden State Warriors","11/13/16",2016,1,6,37,"shot_no","Floating Jump shot","2PT Field Goal",14,"Phoenix Suns",2,144,"Draymond Green",6
+"150","Golden State Warriors","11/18/16",2016,1,1,31,"shot_no","Floating Jump shot","2PT Field Goal",8,"Boston Celtics",-6,82,"Draymond Green",11
+"151","Golden State Warriors","11/4/16",2016,2,5,54,"shot_yes","Hook Shot","2PT Field Goal",6,"Los Angeles Lakers",-59,32,"Draymond Green",19
+"152","Golden State Warriors","3/31/17",2016,3,11,7,"shot_no","Jump Bank Shot","2PT Field Goal",3,"Houston Rockets",4,36,"Draymond Green",25
+"153","Golden State Warriors","12/3/16",2016,1,9,30,"shot_yes","Jump Bank Shot","2PT Field Goal",10,"Phoenix Suns",-101,41,"Draymond Green",3
+"154","Golden State Warriors","11/16/16",2016,4,6,23,"shot_no","Jump Bank Shot","3PT Field Goal",26,"Toronto Raptors",-2,262,"Draymond Green",42
+"155","Golden State Warriors","3/29/17",2016,3,0,41,"shot_yes","Jump Bank Shot","2PT Field Goal",4,"San Antonio Spurs",-45,3,"Draymond Green",36
+"156","Golden State Warriors","2/27/17",2016,4,6,26,"shot_yes","Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-241,-6,"Draymond Green",42
+"157","Golden State Warriors","3/31/17",2016,4,1,37,"shot_no","Jump Shot","2PT Field Goal",10,"Houston Rockets",94,36,"Draymond Green",47
+"158","Golden State Warriors","3/31/17",2016,1,3,5,"shot_no","Jump Shot","2PT Field Goal",17,"Houston Rockets",107,134,"Draymond Green",9
+"159","Golden State Warriors","3/31/17",2016,4,4,51,"shot_no","Jump Shot","3PT Field Goal",26,"Houston Rockets",-27,262,"Draymond Green",44
+"160","Golden State Warriors","3/31/17",2016,3,11,28,"shot_no","Jump Shot","3PT Field Goal",27,"Houston Rockets",69,262,"Draymond Green",25
+"161","Golden State Warriors","3/31/17",2016,4,0,50,"shot_no","Jump Shot","2PT Field Goal",6,"Houston Rockets",-48,47,"Draymond Green",48
+"162","Golden State Warriors","3/31/17",2016,3,0,33,"shot_no","Jump Shot","3PT Field Goal",26,"Houston Rockets",78,254,"Draymond Green",36
+"163","Golden State Warriors","3/29/17",2016,1,8,11,"shot_no","Jump Shot","3PT Field Goal",25,"San Antonio Spurs",79,247,"Draymond Green",4
+"164","Golden State Warriors","3/28/17",2016,4,1,12,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",51,242,"Draymond Green",47
+"165","Golden State Warriors","3/28/17",2016,3,4,1,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",181,169,"Draymond Green",32
+"166","Golden State Warriors","3/28/17",2016,1,1,36,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",92,232,"Draymond Green",11
+"167","Golden State Warriors","3/28/17",2016,2,5,59,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",107,224,"Draymond Green",19
+"168","Golden State Warriors","3/28/17",2016,2,0,3,"shot_no","Jump Shot","3PT Field Goal",34,"Houston Rockets",-78,331,"Draymond Green",24
+"169","Golden State Warriors","3/28/17",2016,1,6,9,"shot_yes","Jump Shot","3PT Field Goal",25,"Houston Rockets",138,210,"Draymond Green",6
+"170","Golden State Warriors","3/28/17",2016,4,2,14,"shot_yes","Jump Shot","2PT Field Goal",16,"Houston Rockets",-161,38,"Draymond Green",46
+"171","Golden State Warriors","3/26/17",2016,1,8,20,"shot_no","Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-125,237,"Draymond Green",4
+"172","Golden State Warriors","3/26/17",2016,4,1,17,"shot_no","Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",37,41,"Draymond Green",47
+"173","Golden State Warriors","3/24/17",2016,1,0,0,"shot_no","Jump Shot","2PT Field Goal",6,"Sacramento Kings",-11,65,"Draymond Green",12
+"174","Golden State Warriors","3/24/17",2016,3,9,54,"shot_no","Jump Shot","3PT Field Goal",26,"Sacramento Kings",22,262,"Draymond Green",27
+"175","Golden State Warriors","3/24/17",2016,4,7,13,"shot_no","Jump Shot","3PT Field Goal",27,"Sacramento Kings",-187,200,"Draymond Green",41
+"176","Golden State Warriors","3/24/17",2016,1,10,24,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",-1,259,"Draymond Green",2
+"177","Golden State Warriors","3/24/17",2016,3,0,6,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",-19,257,"Draymond Green",36
+"178","Golden State Warriors","3/21/17",2016,1,1,54,"shot_yes","Jump Shot","3PT Field Goal",24,"Dallas Mavericks",66,232,"Draymond Green",11
+"179","Golden State Warriors","3/21/17",2016,2,2,25,"shot_no","Jump Shot","2PT Field Goal",19,"Dallas Mavericks",97,164,"Draymond Green",22
+"180","Golden State Warriors","3/21/17",2016,4,5,34,"shot_no","Jump Shot","3PT Field Goal",24,"Dallas Mavericks",20,242,"Draymond Green",43
+"181","Golden State Warriors","3/21/17",2016,1,10,26,"shot_no","Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-160,178,"Draymond Green",2
+"182","Golden State Warriors","3/21/17",2016,3,9,24,"shot_no","Jump Shot","3PT Field Goal",23,"Dallas Mavericks",96,219,"Draymond Green",27
+"183","Golden State Warriors","3/20/17",2016,1,8,49,"shot_no","Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",69,232,"Draymond Green",4
+"184","Golden State Warriors","3/18/17",2016,1,6,20,"shot_no","Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",-60,105,"Draymond Green",6
+"185","Golden State Warriors","3/18/17",2016,1,8,19,"shot_no","Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",42,92,"Draymond Green",4
+"186","Golden State Warriors","3/16/17",2016,2,1,38,"shot_no","Jump Shot","3PT Field Goal",28,"Orlando Magic",-158,242,"Draymond Green",23
+"187","Golden State Warriors","3/16/17",2016,1,9,44,"shot_no","Jump Shot","3PT Field Goal",26,"Orlando Magic",-192,188,"Draymond Green",3
+"188","Golden State Warriors","3/14/17",2016,4,11,2,"shot_no","Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",-9,67,"Draymond Green",37
+"189","Golden State Warriors","3/14/17",2016,4,5,1,"shot_no","Jump Shot","2PT Field Goal",11,"Philadelphia 76ers",61,95,"Draymond Green",43
+"190","Golden State Warriors","3/14/17",2016,1,7,46,"shot_no","Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-153,214,"Draymond Green",5
+"191","Golden State Warriors","3/14/17",2016,3,1,13,"shot_no","Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-107,229,"Draymond Green",35
+"192","Golden State Warriors","3/6/17",2016,4,11,12,"shot_no","Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-143,213,"Draymond Green",37
+"193","Golden State Warriors","3/6/17",2016,4,3,37,"shot_no","Jump Shot","3PT Field Goal",25,"Atlanta Hawks",25,252,"Draymond Green",45
+"194","Golden State Warriors","3/6/17",2016,3,10,15,"shot_yes","Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-14,242,"Draymond Green",26
+"195","Golden State Warriors","3/6/17",2016,3,9,45,"shot_no","Jump Shot","3PT Field Goal",23,"Atlanta Hawks",32,237,"Draymond Green",27
+"196","Golden State Warriors","3/6/17",2016,1,11,7,"shot_yes","Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-17,247,"Draymond Green",1
+"197","Golden State Warriors","3/5/17",2016,2,10,27,"shot_no","Jump Shot","3PT Field Goal",23,"New York Knicks",210,111,"Draymond Green",14
+"198","Golden State Warriors","3/5/17",2016,4,8,23,"shot_no","Jump Shot","3PT Field Goal",24,"New York Knicks",76,229,"Draymond Green",40
+"199","Golden State Warriors","3/5/17",2016,1,9,52,"shot_yes","Jump Shot","3PT Field Goal",23,"New York Knicks",-233,-31,"Draymond Green",3
+"200","Golden State Warriors","3/5/17",2016,3,9,8,"shot_no","Jump Shot","3PT Field Goal",25,"New York Knicks",-176,178,"Draymond Green",27
+"201","Golden State Warriors","3/5/17",2016,1,5,48,"shot_no","Jump Shot","2PT Field Goal",8,"New York Knicks",-60,67,"Draymond Green",7
+"202","Golden State Warriors","3/2/17",2016,3,8,35,"shot_no","Jump Shot","3PT Field Goal",27,"Chicago Bulls",138,237,"Draymond Green",28
+"203","Golden State Warriors","3/2/17",2016,4,2,34,"shot_no","Jump Shot","3PT Field Goal",25,"Chicago Bulls",141,213,"Draymond Green",46
+"204","Golden State Warriors","3/2/17",2016,2,1,37,"shot_yes","Jump Shot","3PT Field Goal",24,"Chicago Bulls",-19,242,"Draymond Green",23
+"205","Golden State Warriors","3/2/17",2016,3,9,36,"shot_yes","Jump Shot","3PT Field Goal",25,"Chicago Bulls",-37,252,"Draymond Green",27
+"206","Golden State Warriors","2/28/17",2016,2,7,50,"shot_no","Jump Shot","3PT Field Goal",29,"Washington Wizards",-7,298,"Draymond Green",17
+"207","Golden State Warriors","2/28/17",2016,3,10,38,"shot_no","Jump Shot","2PT Field Goal",19,"Washington Wizards",64,183,"Draymond Green",26
+"208","Golden State Warriors","2/28/17",2016,4,1,4,"shot_yes","Jump Shot","3PT Field Goal",26,"Washington Wizards",112,244,"Draymond Green",47
+"209","Golden State Warriors","2/28/17",2016,1,8,31,"shot_no","Jump Shot","2PT Field Goal",8,"Washington Wizards",78,41,"Draymond Green",4
+"210","Golden State Warriors","2/28/17",2016,4,5,59,"shot_no","Jump Shot","2PT Field Goal",19,"Washington Wizards",74,180,"Draymond Green",43
+"211","Golden State Warriors","2/28/17",2016,4,2,17,"shot_yes","Jump Shot","3PT Field Goal",23,"Washington Wizards",-232,26,"Draymond Green",46
+"212","Golden State Warriors","2/27/17",2016,1,6,7,"shot_no","Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",150,208,"Draymond Green",6
+"213","Golden State Warriors","2/27/17",2016,4,9,30,"shot_no","Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-7,257,"Draymond Green",39
+"214","Golden State Warriors","4/4/17",2016,1,9,35,"shot_no","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",42,252,"Draymond Green",3
+"215","Golden State Warriors","2/27/17",2016,2,5,33,"shot_no","Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-40,2,"Draymond Green",19
+"216","Golden State Warriors","2/25/17",2016,1,1,16,"shot_no","Jump Shot","2PT Field Goal",6,"Brooklyn Nets",-45,41,"Draymond Green",11
+"217","Golden State Warriors","2/25/17",2016,4,11,39,"shot_no","Jump Shot","2PT Field Goal",9,"Brooklyn Nets",-12,92,"Draymond Green",37
+"218","Golden State Warriors","2/25/17",2016,3,5,45,"shot_no","Jump Shot","3PT Field Goal",25,"Brooklyn Nets",148,213,"Draymond Green",31
+"219","Golden State Warriors","2/25/17",2016,1,7,18,"shot_no","Jump Shot","2PT Field Goal",5,"Brooklyn Nets",17,57,"Draymond Green",5
+"220","Golden State Warriors","2/25/17",2016,1,0,0,"shot_no","Jump Shot","3PT Field Goal",22,"Brooklyn Nets",228,23,"Draymond Green",12
+"221","Golden State Warriors","2/15/17",2016,2,11,43,"shot_no","Jump Shot","2PT Field Goal",7,"Sacramento Kings",-58,52,"Draymond Green",13
+"222","Golden State Warriors","2/15/17",2016,1,0,38,"shot_no","Jump Shot","3PT Field Goal",23,"Sacramento Kings",232,11,"Draymond Green",12
+"223","Golden State Warriors","2/15/17",2016,1,1,4,"shot_no","Jump Shot","3PT Field Goal",26,"Sacramento Kings",99,249,"Draymond Green",11
+"224","Golden State Warriors","2/13/17",2016,1,6,18,"shot_no","Jump Shot","3PT Field Goal",24,"Denver Nuggets",-124,213,"Draymond Green",6
+"225","Golden State Warriors","2/13/17",2016,1,9,31,"shot_no","Jump Shot","3PT Field Goal",24,"Denver Nuggets",-223,100,"Draymond Green",3
+"226","Golden State Warriors","2/11/17",2016,1,9,16,"shot_no","Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-122,223,"Draymond Green",3
+"227","Golden State Warriors","2/10/17",2016,1,0,1,"shot_no","Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",-129,242,"Draymond Green",12
+"228","Golden State Warriors","2/10/17",2016,3,2,25,"shot_no","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-45,252,"Draymond Green",34
+"229","Golden State Warriors","2/10/17",2016,4,9,59,"shot_no","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-88,242,"Draymond Green",39
+"230","Golden State Warriors","2/8/17",2016,4,4,26,"shot_yes","Jump Shot","3PT Field Goal",27,"Chicago Bulls",-47,272,"Draymond Green",44
+"231","Golden State Warriors","2/8/17",2016,4,10,36,"shot_no","Jump Shot","3PT Field Goal",23,"Chicago Bulls",-230,11,"Draymond Green",38
+"232","Golden State Warriors","2/8/17",2016,1,10,34,"shot_no","Jump Shot","2PT Field Goal",21,"Chicago Bulls",162,136,"Draymond Green",2
+"233","Golden State Warriors","2/8/17",2016,4,11,38,"shot_yes","Jump Shot","3PT Field Goal",27,"Chicago Bulls",-153,223,"Draymond Green",37
+"234","Golden State Warriors","2/8/17",2016,2,6,52,"shot_yes","Jump Shot","3PT Field Goal",28,"Chicago Bulls",-37,278,"Draymond Green",18
+"235","Golden State Warriors","2/4/17",2016,2,9,54,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",4,252,"Draymond Green",15
+"236","Golden State Warriors","2/4/17",2016,1,6,31,"shot_no","Jump Shot","2PT Field Goal",3,"Sacramento Kings",25,23,"Draymond Green",6
+"237","Golden State Warriors","2/4/17",2016,4,10,52,"shot_no","Jump Shot","3PT Field Goal",26,"Sacramento Kings",15,267,"Draymond Green",38
+"238","Golden State Warriors","2/4/17",2016,2,11,19,"shot_no","Jump Shot","2PT Field Goal",3,"Sacramento Kings",33,2,"Draymond Green",13
+"239","Golden State Warriors","2/4/17",2016,4,9,18,"shot_no","Jump Shot","2PT Field Goal",18,"Sacramento Kings",-119,139,"Draymond Green",39
+"240","Golden State Warriors","2/4/17",2016,1,9,39,"shot_yes","Jump Shot","3PT Field Goal",25,"Sacramento Kings",-74,242,"Draymond Green",3
+"241","Golden State Warriors","2/4/17",2016,1,6,10,"shot_yes","Jump Shot","3PT Field Goal",25,"Sacramento Kings",71,247,"Draymond Green",6
+"242","Golden State Warriors","2/4/17",2016,3,5,44,"shot_yes","Jump Shot","3PT Field Goal",25,"Sacramento Kings",-130,214,"Draymond Green",31
+"243","Golden State Warriors","2/4/17",2016,3,0,55,"shot_no","Jump Shot","3PT Field Goal",26,"Sacramento Kings",220,156,"Draymond Green",36
+"244","Golden State Warriors","2/4/17",2016,1,0,0,"shot_no","Jump Shot","3PT Field Goal",27,"Sacramento Kings",73,262,"Draymond Green",12
+"245","Golden State Warriors","2/1/17",2016,2,2,39,"shot_no","Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-98,127,"Draymond Green",22
+"246","Golden State Warriors","2/1/17",2016,3,7,6,"shot_no","Jump Shot","3PT Field Goal",26,"Charlotte Hornets",9,262,"Draymond Green",29
+"247","Golden State Warriors","2/1/17",2016,3,4,26,"shot_no","Jump Shot","3PT Field Goal",26,"Charlotte Hornets",212,156,"Draymond Green",32
+"248","Golden State Warriors","2/1/17",2016,2,9,38,"shot_no","Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-176,198,"Draymond Green",15
+"249","Golden State Warriors","2/1/17",2016,2,7,57,"shot_no","Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-204,164,"Draymond Green",17
+"250","Golden State Warriors","2/1/17",2016,2,7,10,"shot_no","Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-129,242,"Draymond Green",17
+"251","Golden State Warriors","2/1/17",2016,3,11,18,"shot_yes","Jump Shot","3PT Field Goal",23,"Charlotte Hornets",232,8,"Draymond Green",25
+"252","Golden State Warriors","1/29/17",2016,1,0,49,"shot_yes","Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-99,223,"Draymond Green",12
+"253","Golden State Warriors","1/29/17",2016,4,2,5,"shot_no","Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-47,237,"Draymond Green",46
+"254","Golden State Warriors","1/29/17",2016,2,10,33,"shot_no","Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-153,198,"Draymond Green",14
+"255","Golden State Warriors","1/29/17",2016,2,2,22,"shot_no","Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",133,208,"Draymond Green",22
+"256","Golden State Warriors","1/29/17",2016,3,8,39,"shot_no","Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-19,257,"Draymond Green",28
+"257","Golden State Warriors","1/28/17",2016,3,10,20,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",48,244,"Draymond Green",26
+"258","Golden State Warriors","1/25/17",2016,1,5,56,"shot_yes","Jump Shot","3PT Field Goal",24,"Charlotte Hornets",148,200,"Draymond Green",7
+"259","Golden State Warriors","1/25/17",2016,3,9,59,"shot_no","Jump Shot","3PT Field Goal",28,"Charlotte Hornets",-81,272,"Draymond Green",27
+"260","Golden State Warriors","1/25/17",2016,2,11,20,"shot_yes","Jump Shot","3PT Field Goal",24,"Charlotte Hornets",176,170,"Draymond Green",13
+"261","Golden State Warriors","1/22/17",2016,4,9,37,"shot_no","Jump Shot","3PT Field Goal",25,"Orlando Magic",-22,257,"Draymond Green",39
+"262","Golden State Warriors","1/22/17",2016,2,5,33,"shot_no","Jump Shot","3PT Field Goal",23,"Orlando Magic",-238,-1,"Draymond Green",19
+"263","Golden State Warriors","1/22/17",2016,1,7,0,"shot_no","Jump Shot","3PT Field Goal",26,"Orlando Magic",-183,185,"Draymond Green",5
+"264","Golden State Warriors","1/22/17",2016,3,0,0,"shot_no","Jump Shot","3PT Field Goal",23,"Orlando Magic",-237,31,"Draymond Green",36
+"265","Golden State Warriors","1/20/17",2016,2,11,46,"shot_no","Jump Shot","2PT Field Goal",7,"Houston Rockets",32,65,"Draymond Green",13
+"266","Golden State Warriors","1/20/17",2016,4,8,29,"shot_no","Jump Shot","2PT Field Goal",3,"Houston Rockets",1,36,"Draymond Green",40
+"267","Golden State Warriors","1/20/17",2016,4,9,59,"shot_no","Jump Shot","3PT Field Goal",27,"Houston Rockets",79,259,"Draymond Green",39
+"268","Golden State Warriors","1/20/17",2016,1,0,1,"shot_no","Jump Shot","3PT Field Goal",55,"Houston Rockets",-147,535,"Draymond Green",12
+"269","Golden State Warriors","1/20/17",2016,2,6,50,"shot_yes","Jump Shot","3PT Field Goal",26,"Houston Rockets",-40,257,"Draymond Green",18
+"270","Golden State Warriors","1/20/17",2016,3,7,37,"shot_yes","Jump Shot","3PT Field Goal",24,"Houston Rockets",-4,247,"Draymond Green",29
+"271","Golden State Warriors","1/20/17",2016,1,8,44,"shot_yes","Jump Shot","3PT Field Goal",24,"Houston Rockets",143,203,"Draymond Green",4
+"272","Golden State Warriors","1/20/17",2016,2,9,55,"shot_no","Jump Shot","2PT Field Goal",6,"Houston Rockets",-55,41,"Draymond Green",15
+"273","Golden State Warriors","1/18/17",2016,3,8,29,"shot_no","Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",-2,36,"Draymond Green",28
+"274","Golden State Warriors","1/18/17",2016,4,2,27,"shot_no","Jump Shot","3PT Field Goal",27,"Oklahoma City Thunder",132,237,"Draymond Green",46
+"275","Golden State Warriors","1/16/17",2016,2,3,51,"shot_no","Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-71,23,"Draymond Green",21
+"276","Golden State Warriors","1/16/17",2016,2,10,41,"shot_yes","Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-30,170,"Draymond Green",14
+"277","Golden State Warriors","1/8/17",2016,1,7,41,"shot_no","Jump Shot","3PT Field Goal",24,"Sacramento Kings",69,237,"Draymond Green",5
+"278","Golden State Warriors","1/8/17",2016,2,0,20,"shot_no","Jump Shot","3PT Field Goal",23,"Sacramento Kings",238,26,"Draymond Green",24
+"279","Golden State Warriors","1/8/17",2016,4,1,10,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",-16,252,"Draymond Green",47
+"280","Golden State Warriors","1/8/17",2016,3,6,26,"shot_yes","Jump Shot","3PT Field Goal",23,"Sacramento Kings",232,8,"Draymond Green",30
+"281","Golden State Warriors","1/6/17",2016,1,7,1,"shot_no","Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",112,247,"Draymond Green",5
+"282","Golden State Warriors","1/4/17",2016,1,3,52,"shot_no","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-186,190,"Draymond Green",9
+"283","Golden State Warriors","1/4/17",2016,4,10,39,"shot_yes","Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",-47,33,"Draymond Green",38
+"284","Golden State Warriors","1/4/17",2016,4,7,28,"shot_no","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-76,252,"Draymond Green",41
+"285","Golden State Warriors","1/4/17",2016,1,9,42,"shot_yes","Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",-173,213,"Draymond Green",3
+"286","Golden State Warriors","1/4/17",2016,4,9,24,"shot_yes","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-89,247,"Draymond Green",39
+"287","Golden State Warriors","1/2/17",2016,2,0,33,"shot_no","Jump Shot","3PT Field Goal",29,"Denver Nuggets",-176,237,"Draymond Green",24
+"288","Golden State Warriors","1/2/17",2016,3,3,23,"shot_no","Jump Shot","2PT Field Goal",5,"Denver Nuggets",27,51,"Draymond Green",33
+"289","Golden State Warriors","12/30/16",2016,1,4,55,"shot_no","Jump Shot","3PT Field Goal",27,"Dallas Mavericks",-194,188,"Draymond Green",8
+"290","Golden State Warriors","12/30/16",2016,1,11,47,"shot_no","Jump Shot","2PT Field Goal",9,"Dallas Mavericks",-22,90,"Draymond Green",1
+"291","Golden State Warriors","12/28/16",2016,3,10,33,"shot_no","Jump Shot","3PT Field Goal",25,"Toronto Raptors",-89,242,"Draymond Green",26
+"292","Golden State Warriors","12/28/16",2016,3,2,37,"shot_no","Jump Shot","2PT Field Goal",3,"Toronto Raptors",-25,21,"Draymond Green",34
+"293","Golden State Warriors","12/25/16",2016,2,8,59,"shot_no","Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-133,224,"Draymond Green",16
+"294","Golden State Warriors","12/25/16",2016,4,3,17,"shot_no","Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-248,0,"Draymond Green",45
+"295","Golden State Warriors","12/23/16",2016,1,1,28,"shot_no","Jump Shot","3PT Field Goal",25,"Detroit Pistons",-192,169,"Draymond Green",11
+"296","Golden State Warriors","12/23/16",2016,4,3,20,"shot_no","Jump Shot","2PT Field Goal",16,"Detroit Pistons",-4,169,"Draymond Green",45
+"297","Golden State Warriors","12/23/16",2016,1,10,21,"shot_no","Jump Shot","3PT Field Goal",26,"Detroit Pistons",76,252,"Draymond Green",2
+"298","Golden State Warriors","12/23/16",2016,3,10,24,"shot_no","Jump Shot","3PT Field Goal",27,"Detroit Pistons",-34,269,"Draymond Green",26
+"299","Golden State Warriors","12/23/16",2016,2,6,16,"shot_no","Jump Shot","3PT Field Goal",26,"Detroit Pistons",-174,203,"Draymond Green",18
+"300","Golden State Warriors","12/23/16",2016,1,5,25,"shot_no","Jump Shot","3PT Field Goal",25,"Detroit Pistons",-56,252,"Draymond Green",7
+"301","Golden State Warriors","12/23/16",2016,4,2,0,"shot_no","Jump Shot","3PT Field Goal",25,"Detroit Pistons",215,134,"Draymond Green",46
+"302","Golden State Warriors","12/20/16",2016,1,9,49,"shot_no","Jump Shot","3PT Field Goal",22,"Utah Jazz",223,23,"Draymond Green",3
+"303","Golden State Warriors","12/20/16",2016,4,11,14,"shot_yes","Jump Shot","3PT Field Goal",25,"Utah Jazz",81,244,"Draymond Green",37
+"304","Golden State Warriors","12/20/16",2016,3,5,46,"shot_no","Jump Shot","3PT Field Goal",25,"Utah Jazz",112,232,"Draymond Green",31
+"305","Golden State Warriors","12/17/16",2016,1,6,27,"shot_no","Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",30,257,"Draymond Green",6
+"306","Golden State Warriors","12/17/16",2016,3,2,17,"shot_no","Jump Shot","3PT Field Goal",28,"Portland Trail Blazers",-138,244,"Draymond Green",34
+"307","Golden State Warriors","12/17/16",2016,1,2,4,"shot_no","Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",17,31,"Draymond Green",10
+"308","Golden State Warriors","12/15/16",2016,3,10,38,"shot_no","Jump Shot","3PT Field Goal",26,"New York Knicks",-143,228,"Draymond Green",26
+"309","Golden State Warriors","12/15/16",2016,1,7,59,"shot_no","Jump Shot","2PT Field Goal",19,"New York Knicks",-178,75,"Draymond Green",5
+"310","Golden State Warriors","12/15/16",2016,1,11,27,"shot_no","Jump Shot","3PT Field Goal",25,"New York Knicks",-122,224,"Draymond Green",1
+"311","Golden State Warriors","12/15/16",2016,4,3,38,"shot_no","Jump Shot","3PT Field Goal",27,"New York Knicks",35,272,"Draymond Green",45
+"312","Golden State Warriors","12/15/16",2016,2,6,5,"shot_no","Jump Shot","3PT Field Goal",25,"New York Knicks",94,232,"Draymond Green",18
+"313","Golden State Warriors","12/13/16",2016,1,1,38,"shot_no","Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",207,11,"Draymond Green",11
+"314","Golden State Warriors","12/13/16",2016,4,3,30,"shot_no","Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",-56,31,"Draymond Green",45
+"315","Golden State Warriors","12/13/16",2016,2,0,31,"shot_no","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-50,252,"Draymond Green",24
+"316","Golden State Warriors","12/13/16",2016,3,7,50,"shot_no","Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",10,287,"Draymond Green",29
+"317","Golden State Warriors","12/13/16",2016,4,5,3,"shot_yes","Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-158,218,"Draymond Green",43
+"318","Golden State Warriors","12/13/16",2016,2,4,34,"shot_yes","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-58,247,"Draymond Green",20
+"319","Golden State Warriors","12/13/16",2016,1,8,36,"shot_no","Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",238,0,"Draymond Green",4
+"320","Golden State Warriors","12/11/16",2016,3,8,46,"shot_no","Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",238,21,"Draymond Green",28
+"321","Golden State Warriors","12/11/16",2016,2,4,4,"shot_yes","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",9,252,"Draymond Green",20
+"322","Golden State Warriors","12/11/16",2016,2,8,3,"shot_no","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",9,257,"Draymond Green",16
+"323","Golden State Warriors","12/11/16",2016,2,4,57,"shot_yes","Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-201,144,"Draymond Green",20
+"324","Golden State Warriors","12/11/16",2016,3,3,14,"shot_no","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-137,218,"Draymond Green",33
+"325","Golden State Warriors","12/11/16",2016,1,11,41,"shot_yes","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-150,203,"Draymond Green",1
+"326","Golden State Warriors","12/11/16",2016,3,8,5,"shot_yes","Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-65,239,"Draymond Green",28
+"327","Golden State Warriors","12/11/16",2016,2,6,10,"shot_yes","Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-16,247,"Draymond Green",18
+"328","Golden State Warriors","12/10/16",2016,1,10,51,"shot_no","Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-156,195,"Draymond Green",2
+"329","Golden State Warriors","12/10/16",2016,1,6,27,"shot_no","Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",-4,43,"Draymond Green",6
+"330","Golden State Warriors","12/10/16",2016,3,11,13,"shot_no","Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",42,51,"Draymond Green",25
+"331","Golden State Warriors","12/8/16",2016,2,2,28,"shot_yes","Jump Shot","3PT Field Goal",26,"Utah Jazz",-228,131,"Draymond Green",22
+"332","Golden State Warriors","12/8/16",2016,2,6,40,"shot_yes","Jump Shot","3PT Field Goal",24,"Utah Jazz",148,195,"Draymond Green",18
+"333","Golden State Warriors","12/8/16",2016,2,4,33,"shot_yes","Jump Shot","3PT Field Goal",25,"Utah Jazz",166,193,"Draymond Green",20
+"334","Golden State Warriors","12/8/16",2016,1,11,25,"shot_no","Jump Shot","3PT Field Goal",25,"Utah Jazz",-194,159,"Draymond Green",1
+"335","Golden State Warriors","12/8/16",2016,1,5,32,"shot_yes","Jump Shot","3PT Field Goal",24,"Utah Jazz",-112,214,"Draymond Green",7
+"336","Golden State Warriors","12/8/16",2016,3,11,36,"shot_no","Jump Shot","3PT Field Goal",25,"Utah Jazz",37,249,"Draymond Green",25
+"337","Golden State Warriors","12/7/16",2016,2,7,0,"shot_yes","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",20,264,"Draymond Green",17
+"338","Golden State Warriors","12/7/16",2016,2,0,3,"shot_yes","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",195,180,"Draymond Green",24
+"339","Golden State Warriors","12/7/16",2016,4,5,19,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-9,269,"Draymond Green",43
+"340","Golden State Warriors","12/7/16",2016,1,2,38,"shot_yes","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",28,262,"Draymond Green",10
+"341","Golden State Warriors","12/7/16",2016,2,0,47,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-14,262,"Draymond Green",24
+"342","Golden State Warriors","12/5/16",2016,1,4,45,"shot_no","Jump Shot","3PT Field Goal",25,"Indiana Pacers",117,223,"Draymond Green",8
+"343","Golden State Warriors","12/3/16",2016,2,0,45,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",-142,223,"Draymond Green",24
+"344","Golden State Warriors","12/3/16",2016,3,1,17,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",-207,170,"Draymond Green",35
+"345","Golden State Warriors","12/3/16",2016,1,3,19,"shot_no","Jump Shot","2PT Field Goal",3,"Phoenix Suns",10,31,"Draymond Green",9
+"346","Golden State Warriors","12/1/16",2016,3,9,3,"shot_no","Jump Shot","2PT Field Goal",4,"Houston Rockets",-14,46,"Draymond Green",27
+"347","Golden State Warriors","12/1/16",2016,3,2,41,"shot_no","Jump Shot","2PT Field Goal",5,"Houston Rockets",-52,21,"Draymond Green",34
+"348","Golden State Warriors","12/1/16",2016,2,2,36,"shot_no","Jump Shot","3PT Field Goal",25,"Houston Rockets",-35,252,"Draymond Green",22
+"349","Golden State Warriors","12/1/16",2016,1,6,52,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",66,234,"Draymond Green",6
+"350","Golden State Warriors","11/28/16",2016,1,7,45,"shot_no","Jump Shot","2PT Field Goal",12,"Atlanta Hawks",-125,26,"Draymond Green",5
+"351","Golden State Warriors","11/28/16",2016,3,10,17,"shot_yes","Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-137,129,"Draymond Green",26
+"352","Golden State Warriors","11/25/16",2016,3,10,15,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-15,243,"Draymond Green",26
+"353","Golden State Warriors","11/25/16",2016,3,8,54,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-55,246,"Draymond Green",28
+"354","Golden State Warriors","11/23/16",2016,2,4,32,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-40,267,"Draymond Green",20
+"355","Golden State Warriors","11/21/16",2016,1,3,48,"shot_no","Jump Shot","3PT Field Goal",26,"Indiana Pacers",-161,210,"Draymond Green",9
+"356","Golden State Warriors","11/21/16",2016,1,6,58,"shot_no","Jump Shot","3PT Field Goal",26,"Indiana Pacers",9,262,"Draymond Green",6
+"357","Golden State Warriors","11/19/16",2016,1,5,36,"shot_no","Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-63,272,"Draymond Green",7
+"358","Golden State Warriors","11/19/16",2016,1,9,12,"shot_no","Jump Shot","2PT Field Goal",6,"Milwaukee Bucks",-56,33,"Draymond Green",3
+"359","Golden State Warriors","11/18/16",2016,4,4,43,"shot_no","Jump Shot","3PT Field Goal",26,"Boston Celtics",-119,232,"Draymond Green",44
+"360","Golden State Warriors","11/18/16",2016,3,9,1,"shot_yes","Jump Shot","3PT Field Goal",25,"Boston Celtics",-161,195,"Draymond Green",27
+"361","Golden State Warriors","11/18/16",2016,3,1,38,"shot_no","Jump Shot","3PT Field Goal",26,"Boston Celtics",9,267,"Draymond Green",35
+"362","Golden State Warriors","11/18/16",2016,2,5,54,"shot_no","Jump Shot","3PT Field Goal",25,"Boston Celtics",-45,254,"Draymond Green",19
+"363","Golden State Warriors","11/18/16",2016,3,10,46,"shot_yes","Jump Shot","3PT Field Goal",25,"Boston Celtics",35,249,"Draymond Green",26
+"364","Golden State Warriors","11/18/16",2016,1,5,0,"shot_no","Jump Shot","3PT Field Goal",24,"Boston Celtics",-73,237,"Draymond Green",7
+"365","Golden State Warriors","11/16/16",2016,2,6,8,"shot_no","Jump Shot","3PT Field Goal",26,"Toronto Raptors",-173,198,"Draymond Green",18
+"366","Golden State Warriors","11/16/16",2016,1,3,46,"shot_yes","Jump Shot","3PT Field Goal",25,"Toronto Raptors",25,257,"Draymond Green",9
+"367","Golden State Warriors","11/16/16",2016,1,2,36,"shot_no","Jump Shot","3PT Field Goal",28,"Toronto Raptors",194,208,"Draymond Green",10
+"368","Golden State Warriors","11/13/16",2016,1,1,1,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",176,198,"Draymond Green",11
+"369","Golden State Warriors","11/13/16",2016,3,9,22,"shot_no","Jump Shot","3PT Field Goal",25,"Phoenix Suns",-174,183,"Draymond Green",27
+"370","Golden State Warriors","11/13/16",2016,1,7,8,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",19,269,"Draymond Green",5
+"371","Golden State Warriors","11/10/16",2016,1,3,6,"shot_yes","Jump Shot","3PT Field Goal",25,"Denver Nuggets",-166,190,"Draymond Green",9
+"372","Golden State Warriors","11/10/16",2016,1,11,37,"shot_yes","Jump Shot","3PT Field Goal",24,"Denver Nuggets",-155,193,"Draymond Green",1
+"373","Golden State Warriors","11/10/16",2016,3,11,18,"shot_yes","Jump Shot","3PT Field Goal",24,"Denver Nuggets",-101,228,"Draymond Green",25
+"374","Golden State Warriors","11/10/16",2016,1,4,57,"shot_no","Jump Shot","3PT Field Goal",26,"Denver Nuggets",-143,218,"Draymond Green",8
+"375","Golden State Warriors","11/9/16",2016,3,2,59,"shot_no","Jump Shot","3PT Field Goal",26,"Dallas Mavericks",107,237,"Draymond Green",34
+"376","Golden State Warriors","11/9/16",2016,2,4,49,"shot_yes","Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-24,252,"Draymond Green",20
+"377","Golden State Warriors","11/7/16",2016,3,11,32,"shot_no","Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",240,36,"Draymond Green",25
+"378","Golden State Warriors","11/7/16",2016,2,1,37,"shot_no","Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",1,36,"Draymond Green",23
+"379","Golden State Warriors","11/4/16",2016,1,11,42,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",37,241,"Draymond Green",1
+"380","Golden State Warriors","11/4/16",2016,3,0,0,"shot_no","Jump Shot","3PT Field Goal",40,"Los Angeles Lakers",18,408,"Draymond Green",36
+"381","Golden State Warriors","11/4/16",2016,4,8,47,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",86,238,"Draymond Green",40
+"382","Golden State Warriors","11/3/16",2016,1,10,15,"shot_no","Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-55,257,"Draymond Green",2
+"383","Golden State Warriors","11/3/16",2016,1,9,28,"shot_no","Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",-20,23,"Draymond Green",3
+"384","Golden State Warriors","11/1/16",2016,1,5,7,"shot_yes","Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",161,195,"Draymond Green",7
+"385","Golden State Warriors","10/30/16",2016,1,7,48,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",187,185,"Draymond Green",5
+"386","Golden State Warriors","10/30/16",2016,3,7,59,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",-4,262,"Draymond Green",29
+"387","Golden State Warriors","10/30/16",2016,2,6,14,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",151,213,"Draymond Green",18
+"388","Golden State Warriors","10/30/16",2016,4,2,26,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",-202,174,"Draymond Green",46
+"389","Golden State Warriors","10/28/16",2016,3,11,40,"shot_yes","Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-42,257,"Draymond Green",25
+"390","Golden State Warriors","10/28/16",2016,2,5,52,"shot_no","Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",1,36,"Draymond Green",19
+"391","Golden State Warriors","10/28/16",2016,2,1,26,"shot_no","Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",-35,33,"Draymond Green",23
+"392","Golden State Warriors","10/28/16",2016,1,7,15,"shot_no","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",19,252,"Draymond Green",5
+"393","Golden State Warriors","10/25/16",2016,3,6,11,"shot_no","Jump Shot","3PT Field Goal",27,"San Antonio Spurs",-181,208,"Draymond Green",30
+"394","Golden State Warriors","10/25/16",2016,3,7,16,"shot_yes","Jump Shot","3PT Field Goal",23,"San Antonio Spurs",233,36,"Draymond Green",29
+"395","Golden State Warriors","10/25/16",2016,1,11,21,"shot_no","Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-158,193,"Draymond Green",1
+"396","Golden State Warriors","3/31/17",2016,2,2,6,"shot_no","Layup Shot","2PT Field Goal",2,"Houston Rockets",-9,28,"Draymond Green",22
+"397","Golden State Warriors","2/13/17",2016,3,9,33,"shot_yes","Layup Shot","2PT Field Goal",1,"Denver Nuggets",-6,16,"Draymond Green",27
+"398","Golden State Warriors","2/23/17",2016,2,11,32,"shot_no","Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",17,16,"Draymond Green",13
+"399","Golden State Warriors","2/25/17",2016,3,7,4,"shot_no","Layup Shot","2PT Field Goal",2,"Brooklyn Nets",25,8,"Draymond Green",29
+"400","Golden State Warriors","10/28/16",2016,1,6,49,"shot_yes","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-22,3,"Draymond Green",6
+"401","Golden State Warriors","11/4/16",2016,4,7,45,"shot_yes","Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",5,0,"Draymond Green",41
+"402","Golden State Warriors","12/1/16",2016,4,7,2,"shot_yes","Layup Shot","2PT Field Goal",0,"Houston Rockets",0,7,"Draymond Green",41
+"403","Golden State Warriors","11/9/16",2016,1,8,17,"shot_no","Layup Shot","2PT Field Goal",3,"Dallas Mavericks",-19,28,"Draymond Green",4
+"404","Golden State Warriors","2/27/17",2016,3,1,44,"shot_no","Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",6,8,"Draymond Green",35
+"405","Golden State Warriors","10/28/16",2016,2,5,47,"shot_yes","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",9,23,"Draymond Green",19
+"406","Golden State Warriors","4/4/17",2016,3,9,43,"shot_no","Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-19,11,"Draymond Green",27
+"407","Golden State Warriors","2/28/17",2016,4,3,4,"shot_yes","Layup Shot","2PT Field Goal",1,"Washington Wizards",-9,8,"Draymond Green",45
+"408","Golden State Warriors","2/28/17",2016,1,5,38,"shot_no","Layup Shot","2PT Field Goal",2,"Washington Wizards",27,-11,"Draymond Green",7
+"409","Golden State Warriors","12/11/16",2016,1,5,2,"shot_yes","Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",1,8,"Draymond Green",7
+"410","Golden State Warriors","11/25/16",2016,1,8,35,"shot_yes","Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,1,"Draymond Green",4
+"411","Golden State Warriors","11/23/16",2016,1,5,48,"shot_no","Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",6,11,"Draymond Green",7
+"412","Golden State Warriors","11/23/16",2016,1,4,36,"shot_no","Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-6,16,"Draymond Green",8
+"413","Golden State Warriors","10/28/16",2016,3,9,42,"shot_no","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",19,16,"Draymond Green",27
+"414","Golden State Warriors","11/10/16",2016,3,5,2,"shot_yes","Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,7,"Draymond Green",31
+"415","Golden State Warriors","12/13/16",2016,3,7,32,"shot_no","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",22,11,"Draymond Green",29
+"416","Golden State Warriors","12/13/16",2016,3,8,4,"shot_no","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",17,11,"Draymond Green",28
+"417","Golden State Warriors","11/21/16",2016,1,2,31,"shot_yes","Layup Shot","2PT Field Goal",1,"Indiana Pacers",10,-1,"Draymond Green",10
+"418","Golden State Warriors","3/5/17",2016,1,10,32,"shot_no","Layup Shot","2PT Field Goal",1,"New York Knicks",-16,-1,"Draymond Green",2
+"419","Golden State Warriors","11/19/16",2016,4,1,48,"shot_no","Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-4,-1,"Draymond Green",47
+"420","Golden State Warriors","3/6/17",2016,1,6,2,"shot_no","Layup Shot","2PT Field Goal",0,"Atlanta Hawks",1,3,"Draymond Green",6
+"421","Golden State Warriors","11/19/16",2016,4,0,55,"shot_no","Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-6,13,"Draymond Green",48
+"422","Golden State Warriors","11/3/16",2016,3,11,43,"shot_no","Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-12,18,"Draymond Green",25
+"423","Golden State Warriors","12/13/16",2016,3,9,23,"shot_no","Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-12,8,"Draymond Green",27
+"424","Golden State Warriors","12/13/16",2016,2,3,11,"shot_yes","Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-6,-6,"Draymond Green",21
+"425","Golden State Warriors","12/13/16",2016,3,9,6,"shot_yes","Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-2,21,"Draymond Green",27
+"426","Golden State Warriors","11/18/16",2016,1,7,48,"shot_yes","Layup Shot","2PT Field Goal",1,"Boston Celtics",-16,3,"Draymond Green",5
+"427","Golden State Warriors","11/1/16",2016,1,7,19,"shot_yes","Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-16,16,"Draymond Green",5
+"428","Golden State Warriors","3/24/17",2016,4,5,50,"shot_no","Layup Shot","2PT Field Goal",1,"Sacramento Kings",-6,16,"Draymond Green",43
+"429","Golden State Warriors","1/4/17",2016,2,6,1,"shot_no","Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-12,2,"Draymond Green",18
+"430","Golden State Warriors","3/24/17",2016,4,5,48,"shot_no","Layup Shot","2PT Field Goal",1,"Sacramento Kings",1,13,"Draymond Green",43
+"431","Golden State Warriors","3/16/17",2016,2,10,27,"shot_no","Layup Shot","2PT Field Goal",2,"Orlando Magic",6,21,"Draymond Green",14
+"432","Golden State Warriors","1/8/17",2016,2,3,36,"shot_yes","Layup Shot","2PT Field Goal",2,"Sacramento Kings",20,7,"Draymond Green",21
+"433","Golden State Warriors","12/15/16",2016,1,5,12,"shot_no","Layup Shot","2PT Field Goal",2,"New York Knicks",-20,11,"Draymond Green",7
+"434","Golden State Warriors","1/8/17",2016,2,0,27,"shot_no","Layup Shot","2PT Field Goal",3,"Sacramento Kings",9,36,"Draymond Green",24
+"435","Golden State Warriors","3/28/17",2016,1,9,44,"shot_yes","Layup Shot","2PT Field Goal",0,"Houston Rockets",2,-5,"Draymond Green",3
+"436","Golden State Warriors","1/8/17",2016,1,5,12,"shot_no","Layup Shot","2PT Field Goal",2,"Sacramento Kings",-27,13,"Draymond Green",7
+"437","Golden State Warriors","1/28/17",2016,1,8,11,"shot_no","Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",10,18,"Draymond Green",4
+"438","Golden State Warriors","1/18/17",2016,3,9,29,"shot_yes","Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",-7,31,"Draymond Green",27
+"439","Golden State Warriors","1/18/17",2016,3,10,35,"shot_yes","Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-4,3,"Draymond Green",26
+"440","Golden State Warriors","12/17/16",2016,3,10,41,"shot_yes","Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-14,7,"Draymond Green",26
+"441","Golden State Warriors","3/18/17",2016,2,1,53,"shot_no","Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",6,21,"Draymond Green",23
+"442","Golden State Warriors","1/25/17",2016,1,4,3,"shot_no","Layup Shot","2PT Field Goal",0,"Charlotte Hornets",0,7,"Draymond Green",8
+"443","Golden State Warriors","11/16/16",2016,3,8,32,"shot_no","Layup Shot","2PT Field Goal",2,"Toronto Raptors",-22,8,"Draymond Green",28
+"444","Golden State Warriors","12/25/16",2016,2,6,16,"shot_yes","Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-7,-16,"Draymond Green",18
+"445","Golden State Warriors","3/16/17",2016,3,6,33,"shot_no","Layup Shot","2PT Field Goal",3,"Orlando Magic",1,31,"Draymond Green",30
+"446","Golden State Warriors","1/25/17",2016,4,2,6,"shot_no","Layup Shot","2PT Field Goal",1,"Charlotte Hornets",1,11,"Draymond Green",46
+"447","Golden State Warriors","1/22/17",2016,3,5,59,"shot_no","Layup Shot","2PT Field Goal",2,"Orlando Magic",9,28,"Draymond Green",31
+"448","Golden State Warriors","3/14/17",2016,4,11,40,"shot_yes","Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",20,14,"Draymond Green",37
+"449","Golden State Warriors","11/16/16",2016,1,1,41,"shot_yes","Layup Shot","2PT Field Goal",2,"Toronto Raptors",22,-6,"Draymond Green",11
+"450","Golden State Warriors","2/11/17",2016,4,2,45,"shot_yes","Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-22,0,"Draymond Green",46
+"451","Golden State Warriors","12/8/16",2016,1,9,34,"shot_no","Layup Shot","2PT Field Goal",2,"Utah Jazz",-29,2,"Draymond Green",3
+"452","Golden State Warriors","2/4/17",2016,2,1,17,"shot_no","Layup Shot","2PT Field Goal",4,"Sacramento Kings",30,36,"Draymond Green",23
+"453","Golden State Warriors","10/28/16",2016,2,4,56,"shot_no","Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-4,16,"Draymond Green",20
+"454","Golden State Warriors","12/3/16",2016,1,6,46,"shot_no","Layup Shot","2PT Field Goal",2,"Phoenix Suns",6,23,"Draymond Green",6
+"455","Golden State Warriors","11/23/16",2016,3,11,15,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Los Angeles Lakers",-143,213,"Draymond Green",25
+"456","Golden State Warriors","10/25/16",2016,2,7,27,"shot_no","Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",200,149,"Draymond Green",17
+"457","Golden State Warriors","3/14/17",2016,4,8,4,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Philadelphia 76ers",-102,237,"Draymond Green",40
+"458","Golden State Warriors","11/3/16",2016,3,1,4,"shot_no","Pullup Jump shot","3PT Field Goal",26,"Oklahoma City Thunder",-27,262,"Draymond Green",35
+"459","Golden State Warriors","3/26/17",2016,1,11,8,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Memphis Grizzlies",-66,262,"Draymond Green",1
+"460","Golden State Warriors","12/28/16",2016,1,0,48,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",-119,228,"Draymond Green",12
+"461","Golden State Warriors","3/14/17",2016,3,8,46,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Philadelphia 76ers",114,232,"Draymond Green",28
+"462","Golden State Warriors","11/1/16",2016,2,1,56,"shot_no","Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",2,242,"Draymond Green",23
+"463","Golden State Warriors","10/25/16",2016,3,3,2,"shot_yes","Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",33,247,"Draymond Green",33
+"464","Golden State Warriors","11/23/16",2016,1,11,1,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Los Angeles Lakers",-55,244,"Draymond Green",1
+"465","Golden State Warriors","12/20/16",2016,4,10,10,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Utah Jazz",-120,244,"Draymond Green",38
+"466","Golden State Warriors","2/8/17",2016,2,7,44,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Chicago Bulls",174,208,"Draymond Green",17
+"467","Golden State Warriors","2/8/17",2016,3,7,46,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Chicago Bulls",43,247,"Draymond Green",29
+"468","Golden State Warriors","12/5/16",2016,3,1,54,"shot_no","Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",143,95,"Draymond Green",35
+"469","Golden State Warriors","1/2/17",2016,4,6,7,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Denver Nuggets",-79,257,"Draymond Green",42
+"470","Golden State Warriors","3/6/17",2016,4,8,56,"shot_no","Pullup Jump shot","2PT Field Goal",5,"Atlanta Hawks",-29,41,"Draymond Green",40
+"471","Golden State Warriors","3/24/17",2016,3,5,55,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Sacramento Kings",-161,218,"Draymond Green",31
+"472","Golden State Warriors","2/1/17",2016,2,10,18,"shot_yes","Pullup Jump shot","3PT Field Goal",28,"Charlotte Hornets",-129,252,"Draymond Green",14
+"473","Golden State Warriors","12/5/16",2016,3,11,45,"shot_no","Pullup Jump shot","3PT Field Goal",24,"Indiana Pacers",-48,242,"Draymond Green",25
+"474","Golden State Warriors","1/29/17",2016,1,0,31,"shot_no","Pullup Jump shot","3PT Field Goal",28,"Portland Trail Blazers",9,282,"Draymond Green",12
+"475","Golden State Warriors","4/4/17",2016,2,6,15,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Minnesota Timberwolves",27,257,"Draymond Green",18
+"476","Golden State Warriors","12/3/16",2016,2,5,24,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",25,252,"Draymond Green",19
+"477","Golden State Warriors","3/24/17",2016,3,2,6,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Sacramento Kings",125,219,"Draymond Green",34
+"478","Golden State Warriors","12/30/16",2016,2,5,7,"shot_yes","Pullup Jump shot","3PT Field Goal",24,"Dallas Mavericks",-143,205,"Draymond Green",19
+"479","Golden State Warriors","3/24/17",2016,3,1,40,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Sacramento Kings",60,257,"Draymond Green",35
+"480","Golden State Warriors","2/23/17",2016,2,1,58,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Los Angeles Clippers",-161,213,"Draymond Green",23
+"481","Golden State Warriors","2/25/17",2016,2,11,2,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Brooklyn Nets",117,247,"Draymond Green",13
+"482","Golden State Warriors","3/24/17",2016,2,5,3,"shot_no","Pullup Jump shot","3PT Field Goal",23,"Sacramento Kings",-233,8,"Draymond Green",19
+"483","Golden State Warriors","11/9/16",2016,1,2,52,"shot_no","Pullup Jump shot","3PT Field Goal",26,"Dallas Mavericks",-201,175,"Draymond Green",10
+"484","Golden State Warriors","12/30/16",2016,2,1,30,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",-158,203,"Draymond Green",23
+"485","Golden State Warriors","2/25/17",2016,3,0,27,"shot_no","Pullup Jump shot","3PT Field Goal",26,"Brooklyn Nets",-181,188,"Draymond Green",36
+"486","Golden State Warriors","1/6/17",2016,4,5,36,"shot_no","Pullup Jump shot","3PT Field Goal",26,"Memphis Grizzlies",-127,229,"Draymond Green",43
+"487","Golden State Warriors","3/24/17",2016,3,6,42,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Sacramento Kings",181,175,"Draymond Green",30
+"488","Golden State Warriors","11/9/16",2016,2,7,27,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Dallas Mavericks",230,-1,"Draymond Green",17
+"489","Golden State Warriors","11/9/16",2016,1,9,42,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Dallas Mavericks",-165,210,"Draymond Green",3
+"490","Golden State Warriors","11/9/16",2016,1,3,17,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Dallas Mavericks",87,262,"Draymond Green",9
+"491","Golden State Warriors","11/13/16",2016,3,3,38,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",99,237,"Draymond Green",33
+"492","Golden State Warriors","12/20/16",2016,1,9,24,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Utah Jazz",15,259,"Draymond Green",3
+"493","Golden State Warriors","11/28/16",2016,4,5,17,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",-173,185,"Draymond Green",43
+"494","Golden State Warriors","11/28/16",2016,2,3,52,"shot_no","Pullup Jump shot","3PT Field Goal",26,"Atlanta Hawks",92,247,"Draymond Green",21
+"495","Golden State Warriors","11/28/16",2016,1,11,14,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",109,228,"Draymond Green",1
+"496","Golden State Warriors","12/28/16",2016,1,5,23,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Toronto Raptors",-192,178,"Draymond Green",7
+"497","Golden State Warriors","12/15/16",2016,1,8,25,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"New York Knicks",35,257,"Draymond Green",4
+"498","Golden State Warriors","11/13/16",2016,3,7,41,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Phoenix Suns",-161,213,"Draymond Green",29
+"499","Golden State Warriors","12/10/16",2016,3,6,6,"shot_yes","Putback Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Draymond Green",30
+"500","Golden State Warriors","11/3/16",2016,1,4,42,"shot_yes","Putback Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Draymond Green",8
+"501","Golden State Warriors","10/25/16",2016,3,11,16,"shot_yes","Putback Layup Shot","2PT Field Goal",0,"San Antonio Spurs",2,7,"Draymond Green",25
+"502","Golden State Warriors","12/10/16",2016,2,2,18,"shot_no","Putback Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-1,16,"Draymond Green",22
+"503","Golden State Warriors","12/7/16",2016,2,1,35,"shot_yes","Putback Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-1,21,"Draymond Green",23
+"504","Golden State Warriors","11/3/16",2016,1,5,0,"shot_yes","Putback Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-2,7,"Draymond Green",7
+"505","Golden State Warriors","3/28/17",2016,4,3,48,"shot_yes","Putback Layup Shot","2PT Field Goal",1,"Houston Rockets",9,-5,"Draymond Green",45
+"506","Golden State Warriors","11/13/16",2016,1,2,21,"shot_yes","Putback Layup Shot","2PT Field Goal",2,"Phoenix Suns",-9,18,"Draymond Green",10
+"507","Golden State Warriors","2/27/17",2016,3,1,41,"shot_yes","Putback Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",1,8,"Draymond Green",35
+"508","Golden State Warriors","11/25/16",2016,3,6,11,"shot_yes","Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",18,-2,"Draymond Green",30
+"509","Golden State Warriors","11/10/16",2016,1,1,52,"shot_no","Reverse Layup Shot","2PT Field Goal",2,"Denver Nuggets",-17,11,"Draymond Green",11
+"510","Golden State Warriors","11/4/16",2016,3,9,12,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,"Draymond Green",27
+"511","Golden State Warriors","3/24/17",2016,2,4,25,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Draymond Green",20
+"512","Golden State Warriors","3/24/17",2016,2,6,19,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Draymond Green",18
+"513","Golden State Warriors","12/30/16",2016,1,8,32,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,"Draymond Green",4
+"514","Golden State Warriors","1/18/17",2016,1,8,45,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Draymond Green",4
+"515","Golden State Warriors","3/14/17",2016,3,11,42,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,"Draymond Green",25
+"516","Golden State Warriors","10/25/16",2016,3,8,56,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,"Draymond Green",28
+"517","Golden State Warriors","10/30/16",2016,3,2,59,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Phoenix Suns",-4,2,"Draymond Green",34
+"518","Golden State Warriors","2/28/17",2016,3,5,29,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,"Draymond Green",31
+"519","Golden State Warriors","12/20/16",2016,2,2,7,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,"Draymond Green",22
+"520","Golden State Warriors","1/25/17",2016,4,1,50,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,"Draymond Green",47
+"521","Golden State Warriors","11/23/16",2016,2,0,27,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,"Draymond Green",24
+"522","Golden State Warriors","2/10/17",2016,2,0,39,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Draymond Green",24
+"523","Golden State Warriors","3/26/17",2016,1,7,51,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Draymond Green",5
+"524","Golden State Warriors","12/20/16",2016,3,5,15,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,"Draymond Green",31
+"525","Golden State Warriors","12/1/16",2016,4,5,9,"shot_yes","Running Finger Roll Layup Shot","2PT Field Goal",1,"Houston Rockets",4,11,"Draymond Green",43
+"526","Golden State Warriors","12/20/16",2016,1,7,31,"shot_no","Running Finger Roll Layup Shot","2PT Field Goal",1,"Utah Jazz",4,13,"Draymond Green",5
+"527","Golden State Warriors","11/3/16",2016,1,6,38,"shot_no","Running Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",0,33,"Draymond Green",6
+"528","Golden State Warriors","11/16/16",2016,2,1,0,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Toronto Raptors",15,11,"Draymond Green",23
+"529","Golden State Warriors","12/28/16",2016,1,11,26,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Toronto Raptors",4,7,"Draymond Green",1
+"530","Golden State Warriors","1/16/17",2016,1,1,11,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-4,11,"Draymond Green",11
+"531","Golden State Warriors","2/27/17",2016,1,0,33,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-6,21,"Draymond Green",12
+"532","Golden State Warriors","11/28/16",2016,2,3,3,"shot_no","Running Layup Shot","2PT Field Goal",0,"Atlanta Hawks",1,7,"Draymond Green",21
+"533","Golden State Warriors","12/1/16",2016,2,1,0,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Houston Rockets",0,3,"Draymond Green",23
+"534","Golden State Warriors","12/28/16",2016,3,2,10,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Toronto Raptors",-1,2,"Draymond Green",34
+"535","Golden State Warriors","11/4/16",2016,3,3,17,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-8,1,"Draymond Green",33
+"536","Golden State Warriors","2/25/17",2016,1,9,59,"shot_no","Running Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-16,21,"Draymond Green",3
+"537","Golden State Warriors","12/1/16",2016,1,5,22,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Houston Rockets",9,16,"Draymond Green",7
+"538","Golden State Warriors","3/24/17",2016,1,0,41,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Sacramento Kings",9,3,"Draymond Green",12
+"539","Golden State Warriors","1/8/17",2016,3,10,4,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Sacramento Kings",-17,16,"Draymond Green",26
+"540","Golden State Warriors","1/2/17",2016,3,1,55,"shot_no","Running Layup Shot","2PT Field Goal",1,"Denver Nuggets",2,13,"Draymond Green",35
+"541","Golden State Warriors","2/13/17",2016,1,5,23,"shot_no","Running Layup Shot","2PT Field Goal",3,"Denver Nuggets",-30,2,"Draymond Green",7
+"542","Golden State Warriors","3/6/17",2016,1,7,4,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",19,-1,"Draymond Green",5
+"543","Golden State Warriors","10/25/16",2016,2,5,31,"shot_yes","Running Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-6,21,"Draymond Green",19
+"544","Golden State Warriors","11/19/16",2016,3,2,57,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-11,8,"Draymond Green",34
+"545","Golden State Warriors","12/5/16",2016,1,10,5,"shot_no","Running Layup Shot","2PT Field Goal",2,"Indiana Pacers",22,18,"Draymond Green",2
+"546","Golden State Warriors","3/2/17",2016,1,0,41,"shot_no","Step Back Jump shot","3PT Field Goal",25,"Chicago Bulls",-22,254,"Draymond Green",12
+"547","Golden State Warriors","1/18/17",2016,2,4,34,"shot_no","Step Back Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",94,159,"Draymond Green",20
+"548","Golden State Warriors","3/28/17",2016,2,0,32,"shot_no","Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",3,9,"Draymond Green",24
+"549","Golden State Warriors","3/28/17",2016,2,0,32,"shot_yes","Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",-2,3,"Draymond Green",24
+"550","Golden State Warriors","1/22/17",2016,1,6,29,"shot_no","Tip Layup Shot","2PT Field Goal",0,"Orlando Magic",-6,5,"Draymond Green",6
+"551","Golden State Warriors","1/20/17",2016,4,8,27,"shot_yes","Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",6,3,"Draymond Green",40
+"552","Golden State Warriors","3/14/17",2016,3,6,27,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-12,9,"Draymond Green",30
+"553","Golden State Warriors","12/15/16",2016,3,9,18,"shot_no","Tip Layup Shot","2PT Field Goal",0,"New York Knicks",-1,9,"Draymond Green",27
+"554","Golden State Warriors","12/15/16",2016,3,9,19,"shot_no","Tip Layup Shot","2PT Field Goal",0,"New York Knicks",1,8,"Draymond Green",27
+"555","Golden State Warriors","12/15/16",2016,4,3,19,"shot_no","Tip Layup Shot","2PT Field Goal",1,"New York Knicks",0,18,"Draymond Green",45
+"556","Golden State Warriors","12/30/16",2016,3,1,46,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-17,3,"Draymond Green",35
+"557","Golden State Warriors","1/2/17",2016,4,0,28,"shot_yes","Tip Layup Shot","2PT Field Goal",2,"Denver Nuggets",-4,21,"Draymond Green",48
+"558","Golden State Warriors","11/18/16",2016,1,1,29,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Boston Celtics",-1,11,"Draymond Green",11
+"559","Golden State Warriors","11/21/16",2016,3,8,12,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Indiana Pacers",5,14,"Draymond Green",28
+"560","Golden State Warriors","11/21/16",2016,2,2,9,"shot_yes","Tip Layup Shot","2PT Field Goal",0,"Indiana Pacers",1,7,"Draymond Green",22
+"561","Golden State Warriors","11/3/16",2016,1,3,8,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-1,11,"Draymond Green",9
+"562","Golden State Warriors","11/3/16",2016,1,3,7,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-4,11,"Draymond Green",9
+"563","Golden State Warriors","10/25/16",2016,3,5,6,"shot_no","Tip Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-8,15,"Draymond Green",31
+"564","Golden State Warriors","11/7/16",2016,4,3,51,"shot_no","Tip Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",5,14,"Draymond Green",45
+"565","Golden State Warriors","10/28/16",2016,2,5,51,"shot_no","Tip Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",3,14,"Draymond Green",19
+"566","Golden State Warriors","12/10/16",2016,2,2,18,"shot_yes","Tip Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",4,13,"Draymond Green",22
+"567","Golden State Warriors","12/1/16",2016,4,7,4,"shot_no","Tip Layup Shot","2PT Field Goal",2,"Houston Rockets",-2,26,"Draymond Green",41
+"568","Golden State Warriors","12/10/16",2016,3,10,20,"shot_yes","Tip Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-7,11,"Draymond Green",26
+"569","Golden State Warriors","3/26/17",2016,3,0,32,"shot_no","Tip Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-1,21,"Draymond Green",36
+"570","Golden State Warriors","12/5/16",2016,3,9,57,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Indiana Pacers",-1,16,"Draymond Green",27
+"571","Golden State Warriors","10/28/16",2016,1,11,43,"shot_no","Tip Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-8,14,"Draymond Green",1
+"572","Golden State Warriors","3/26/17",2016,4,1,16,"shot_no","Tip Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-10,14,"Draymond Green",47
+"573","Golden State Warriors","10/25/16",2016,3,8,35,"shot_no","Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,7,"Draymond Green",28
+"574","Golden State Warriors","3/14/17",2016,1,2,24,"shot_no","Turnaround Bank shot","2PT Field Goal",13,"Philadelphia 76ers",114,80,"Draymond Green",10
+"575","Golden State Warriors","3/26/17",2016,1,1,36,"shot_no","Turnaround Bank shot","2PT Field Goal",5,"Memphis Grizzlies",-7,51,"Draymond Green",11
+"576","Golden State Warriors","3/26/17",2016,2,5,59,"shot_yes","Turnaround Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",138,121,"Draymond Green",19
+"577","Golden State Warriors","3/29/17",2016,2,7,37,"shot_yes","Turnaround Jump Shot","2PT Field Goal",5,"San Antonio Spurs",15,52,"Draymond Green",17
+"578","Golden State Warriors","3/20/17",2016,3,5,34,"shot_no","Turnaround Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",56,77,"Draymond Green",31

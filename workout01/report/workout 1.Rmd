@@ -1,0 +1,17 @@
+---
+title: "Workout 1"
+author: "Jung Hun Phee"
+date: "3/13/2019"
+output: github_document
+---
+
+##2PT Effective Shooting % by Player
+```{r echo=FALSE}
+setwd("/Users/junghun/desktop/stat133/workout01/data")
+name<-c("Andre Iguodala","Draymond Green","Kevin Durant","Klay Thompson","Stephen Curry")
+total<-c(length(iguodala$shot_made_flag),length(green$shot_made_flag),length(durant$shot_made_flag),length(thompson$shot_made_flag),length(curry$shot_made_flag))
+made<-as.double(c(length(iguodala$shot_made_flag[iguodala$shot_made_flag=="shot_yes"]),length(green$shot_made_flag[green$shot_made_flag=="shot_yes"]),length(durant$shot_made_flag[durant$shot_made_flag=="shot_yes"]),length(thompson$shot_made_flag[thompson$shot_made_flag=="shot_yes"]),length(curry$shot_made_flag[curry$shot_made_flag=="shot_yes"])))
+perc_made<-made/total
+overall<-as.data.frame.matrix(cbind(name,total, made, perc_made))
+overall
+```

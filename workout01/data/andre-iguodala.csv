@@ -1,0 +1,372 @@
+"","team_name","game_date","season","period","minutes_remaining","seconds_remaining","shot_made_flag","action_type","shot_type","shot_distance","opponent","x","y","name","minute"
+"1","Golden State Warriors","3/24/17",2016,3,2,35,"shot_no","Alley Oop Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Andre Iguodala",34
+"2","Golden State Warriors","11/3/16",2016,2,10,51,"shot_no","Alley Oop Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",-12,13,"Andre Iguodala",14
+"3","Golden State Warriors","10/25/16",2016,2,0,6,"shot_yes","Alley Oop Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,"Andre Iguodala",24
+"4","Golden State Warriors","11/3/16",2016,2,11,10,"shot_no","Alley Oop Layup shot","2PT Field Goal",1,"Oklahoma City Thunder",-1,11,"Andre Iguodala",13
+"5","Golden State Warriors","1/8/17",2016,4,0,32,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Andre Iguodala",48
+"6","Golden State Warriors","3/16/17",2016,3,5,30,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,"Andre Iguodala",31
+"7","Golden State Warriors","1/2/17",2016,4,7,57,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,"Andre Iguodala",41
+"8","Golden State Warriors","12/7/16",2016,4,9,31,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Andre Iguodala",39
+"9","Golden State Warriors","2/28/17",2016,2,0,23,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,"Andre Iguodala",24
+"10","Golden State Warriors","2/1/17",2016,2,0,2,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,"Andre Iguodala",24
+"11","Golden State Warriors","11/25/16",2016,1,0,44,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,"Andre Iguodala",12
+"12","Golden State Warriors","2/13/17",2016,1,0,41,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,"Andre Iguodala",12
+"13","Golden State Warriors","12/28/16",2016,2,3,34,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,"Andre Iguodala",21
+"14","Golden State Warriors","3/28/17",2016,3,5,56,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Andre Iguodala",31
+"15","Golden State Warriors","12/7/16",2016,3,3,23,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Andre Iguodala",33
+"16","Golden State Warriors","11/16/16",2016,2,1,23,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,"Andre Iguodala",23
+"17","Golden State Warriors","11/18/16",2016,1,3,36,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,"Andre Iguodala",9
+"18","Golden State Warriors","2/13/17",2016,1,1,3,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,"Andre Iguodala",11
+"19","Golden State Warriors","2/11/17",2016,1,0,59,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Andre Iguodala",12
+"20","Golden State Warriors","11/25/16",2016,2,3,24,"shot_yes","Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,"Andre Iguodala",21
+"21","Golden State Warriors","2/10/17",2016,3,1,21,"shot_yes","Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",10,8,"Andre Iguodala",35
+"22","Golden State Warriors","1/16/17",2016,2,5,8,"shot_yes","Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-11,7,"Andre Iguodala",19
+"23","Golden State Warriors","1/16/17",2016,4,9,39,"shot_yes","Cutting Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-1,8,"Andre Iguodala",39
+"24","Golden State Warriors","1/6/17",2016,2,2,34,"shot_no","Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",10,11,"Andre Iguodala",22
+"25","Golden State Warriors","2/13/17",2016,1,2,55,"shot_yes","Cutting Layup Shot","2PT Field Goal",1,"Denver Nuggets",-14,7,"Andre Iguodala",10
+"26","Golden State Warriors","3/2/17",2016,4,0,56,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Chicago Bulls",-2,0,"Andre Iguodala",48
+"27","Golden State Warriors","3/2/17",2016,1,2,35,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,"Andre Iguodala",10
+"28","Golden State Warriors","10/28/16",2016,4,11,8,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,"Andre Iguodala",37
+"29","Golden State Warriors","12/17/16",2016,2,0,8,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,"Andre Iguodala",24
+"30","Golden State Warriors","12/7/16",2016,2,3,28,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Andre Iguodala",21
+"31","Golden State Warriors","11/28/16",2016,1,2,29,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,"Andre Iguodala",10
+"32","Golden State Warriors","3/26/17",2016,1,0,45,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Andre Iguodala",12
+"33","Golden State Warriors","11/28/16",2016,4,10,39,"shot_yes","Driving Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,"Andre Iguodala",38
+"34","Golden State Warriors","12/28/16",2016,4,8,7,"shot_yes","Driving Finger Roll Layup Shot","2PT Field Goal",2,"Toronto Raptors",-6,23,"Andre Iguodala",40
+"35","Golden State Warriors","3/29/17",2016,4,2,20,"shot_no","Driving Finger Roll Layup Shot","2PT Field Goal",1,"San Antonio Spurs",9,11,"Andre Iguodala",46
+"36","Golden State Warriors","2/2/17",2016,3,0,0,"shot_yes","Driving Floating Bank Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",46,62,"Andre Iguodala",36
+"37","Golden State Warriors","12/23/16",2016,2,0,49,"shot_yes","Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-9,7,"Andre Iguodala",24
+"38","Golden State Warriors","3/31/17",2016,3,4,13,"shot_no","Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-17,21,"Andre Iguodala",32
+"39","Golden State Warriors","3/18/17",2016,1,3,45,"shot_yes","Driving Reverse Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,"Andre Iguodala",9
+"40","Golden State Warriors","11/9/16",2016,2,3,48,"shot_yes","Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",14,2,"Andre Iguodala",21
+"41","Golden State Warriors","11/1/16",2016,1,3,11,"shot_no","Driving Reverse Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",2,7,"Andre Iguodala",9
+"42","Golden State Warriors","1/8/17",2016,1,3,53,"shot_yes","Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Andre Iguodala",9
+"43","Golden State Warriors","3/24/17",2016,3,3,1,"shot_yes","Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Andre Iguodala",33
+"44","Golden State Warriors","10/28/16",2016,3,0,2,"shot_yes","Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,"Andre Iguodala",36
+"45","Golden State Warriors","3/28/17",2016,1,3,15,"shot_yes","Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Andre Iguodala",9
+"46","Golden State Warriors","3/31/17",2016,4,0,29,"shot_yes","Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Andre Iguodala",48
+"47","Golden State Warriors","3/20/17",2016,2,2,32,"shot_yes","Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Andre Iguodala",22
+"48","Golden State Warriors","2/28/17",2016,4,5,20,"shot_no","Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,"Andre Iguodala",43
+"49","Golden State Warriors","1/28/17",2016,3,3,44,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Andre Iguodala",33
+"50","Golden State Warriors","2/23/17",2016,3,5,22,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Andre Iguodala",31
+"51","Golden State Warriors","10/30/16",2016,2,0,43,"shot_yes","Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,"Andre Iguodala",24
+"52","Golden State Warriors","1/28/17",2016,2,0,28,"shot_yes","Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Andre Iguodala",24
+"53","Golden State Warriors","1/18/17",2016,4,10,24,"shot_yes","Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Andre Iguodala",38
+"54","Golden State Warriors","11/3/16",2016,4,10,13,"shot_yes","Fadeaway Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",195,-1,"Andre Iguodala",38
+"55","Golden State Warriors","12/28/16",2016,3,1,10,"shot_yes","Finger Roll Layup Shot","2PT Field Goal",1,"Toronto Raptors",-1,16,"Andre Iguodala",35
+"56","Golden State Warriors","2/10/17",2016,2,4,36,"shot_yes","Floating Jump shot","2PT Field Goal",17,"Memphis Grizzlies",-109,136,"Andre Iguodala",20
+"57","Golden State Warriors","1/2/17",2016,3,0,0,"shot_no","Floating Jump shot","2PT Field Goal",10,"Denver Nuggets",-29,97,"Andre Iguodala",36
+"58","Golden State Warriors","12/28/16",2016,4,11,14,"shot_yes","Hook Shot","2PT Field Goal",5,"Toronto Raptors",-29,41,"Andre Iguodala",37
+"59","Golden State Warriors","11/18/16",2016,2,3,4,"shot_yes","Hook Shot","2PT Field Goal",0,"Boston Celtics",0,1,"Andre Iguodala",21
+"60","Golden State Warriors","11/1/16",2016,4,9,22,"shot_no","Hook Shot","2PT Field Goal",3,"Portland Trail Blazers",-32,7,"Andre Iguodala",39
+"61","Golden State Warriors","12/25/16",2016,2,0,46,"shot_no","Jump Bank Shot","2PT Field Goal",7,"Cleveland Cavaliers",68,36,"Andre Iguodala",24
+"62","Golden State Warriors","3/2/17",2016,2,0,22,"shot_no","Jump Shot","3PT Field Goal",26,"Chicago Bulls",-191,180,"Andre Iguodala",24
+"63","Golden State Warriors","4/4/17",2016,1,0,18,"shot_yes","Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",117,144,"Andre Iguodala",12
+"64","Golden State Warriors","3/31/17",2016,1,2,2,"shot_yes","Jump Shot","3PT Field Goal",27,"Houston Rockets",81,262,"Andre Iguodala",10
+"65","Golden State Warriors","3/31/17",2016,2,0,0,"shot_yes","Jump Shot","3PT Field Goal",27,"Houston Rockets",-215,165,"Andre Iguodala",24
+"66","Golden State Warriors","3/31/17",2016,4,8,12,"shot_no","Jump Shot","3PT Field Goal",25,"Houston Rockets",87,242,"Andre Iguodala",40
+"67","Golden State Warriors","3/31/17",2016,2,8,11,"shot_no","Jump Shot","3PT Field Goal",25,"Houston Rockets",-60,247,"Andre Iguodala",16
+"68","Golden State Warriors","3/31/17",2016,1,1,29,"shot_no","Jump Shot","3PT Field Goal",25,"Houston Rockets",-119,228,"Andre Iguodala",11
+"69","Golden State Warriors","3/31/17",2016,4,1,39,"shot_no","Jump Shot","3PT Field Goal",23,"Houston Rockets",-227,67,"Andre Iguodala",47
+"70","Golden State Warriors","3/31/17",2016,1,5,0,"shot_no","Jump Shot","2PT Field Goal",19,"Houston Rockets",109,159,"Andre Iguodala",7
+"71","Golden State Warriors","3/29/17",2016,2,10,3,"shot_no","Jump Shot","3PT Field Goal",24,"San Antonio Spurs",161,183,"Andre Iguodala",14
+"72","Golden State Warriors","3/29/17",2016,1,2,31,"shot_yes","Jump Shot","3PT Field Goal",23,"San Antonio Spurs",233,2,"Andre Iguodala",10
+"73","Golden State Warriors","3/29/17",2016,2,4,39,"shot_yes","Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-207,154,"Andre Iguodala",20
+"74","Golden State Warriors","3/29/17",2016,1,0,49,"shot_yes","Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-158,120,"Andre Iguodala",12
+"75","Golden State Warriors","3/28/17",2016,3,4,31,"shot_yes","Jump Shot","3PT Field Goal",23,"Houston Rockets",233,26,"Andre Iguodala",32
+"76","Golden State Warriors","3/28/17",2016,3,6,52,"shot_no","Jump Shot","3PT Field Goal",22,"Houston Rockets",223,51,"Andre Iguodala",30
+"77","Golden State Warriors","3/28/17",2016,4,10,38,"shot_no","Jump Shot","3PT Field Goal",24,"Houston Rockets",225,97,"Andre Iguodala",38
+"78","Golden State Warriors","3/28/17",2016,2,9,9,"shot_no","Jump Shot","3PT Field Goal",23,"Houston Rockets",228,70,"Andre Iguodala",15
+"79","Golden State Warriors","3/26/17",2016,2,8,39,"shot_no","Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-133,46,"Andre Iguodala",16
+"80","Golden State Warriors","3/26/17",2016,1,5,5,"shot_yes","Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-212,160,"Andre Iguodala",7
+"81","Golden State Warriors","3/24/17",2016,1,2,31,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",-55,247,"Andre Iguodala",10
+"82","Golden State Warriors","3/24/17",2016,2,11,38,"shot_no","Jump Shot","2PT Field Goal",17,"Sacramento Kings",-124,129,"Andre Iguodala",13
+"83","Golden State Warriors","3/20/17",2016,3,0,35,"shot_no","Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-189,164,"Andre Iguodala",36
+"84","Golden State Warriors","3/20/17",2016,1,2,33,"shot_no","Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",171,11,"Andre Iguodala",10
+"85","Golden State Warriors","3/18/17",2016,4,8,11,"shot_no","Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",17,28,"Andre Iguodala",40
+"86","Golden State Warriors","3/16/17",2016,4,10,21,"shot_no","Jump Shot","3PT Field Goal",26,"Orlando Magic",-122,232,"Andre Iguodala",38
+"87","Golden State Warriors","3/14/17",2016,2,7,38,"shot_no","Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",-29,26,"Andre Iguodala",17
+"88","Golden State Warriors","3/6/17",2016,4,2,38,"shot_yes","Jump Shot","3PT Field Goal",23,"Atlanta Hawks",233,18,"Andre Iguodala",46
+"89","Golden State Warriors","3/6/17",2016,4,5,18,"shot_no","Jump Shot","3PT Field Goal",25,"Atlanta Hawks",168,193,"Andre Iguodala",43
+"90","Golden State Warriors","3/6/17",2016,2,4,48,"shot_yes","Jump Shot","3PT Field Goal",23,"Atlanta Hawks",236,16,"Andre Iguodala",20
+"91","Golden State Warriors","3/6/17",2016,1,4,44,"shot_yes","Jump Shot","3PT Field Goal",24,"Atlanta Hawks",238,46,"Andre Iguodala",8
+"92","Golden State Warriors","3/6/17",2016,2,7,10,"shot_no","Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-227,13,"Andre Iguodala",17
+"93","Golden State Warriors","3/6/17",2016,4,6,9,"shot_yes","Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-60,242,"Andre Iguodala",42
+"94","Golden State Warriors","3/5/17",2016,4,6,56,"shot_no","Jump Shot","3PT Field Goal",24,"New York Knicks",191,151,"Andre Iguodala",42
+"95","Golden State Warriors","3/5/17",2016,2,8,1,"shot_no","Jump Shot","3PT Field Goal",23,"New York Knicks",-233,-31,"Andre Iguodala",16
+"96","Golden State Warriors","3/5/17",2016,2,8,32,"shot_no","Jump Shot","3PT Field Goal",23,"New York Knicks",232,-26,"Andre Iguodala",16
+"97","Golden State Warriors","3/5/17",2016,2,4,51,"shot_yes","Jump Shot","3PT Field Goal",24,"New York Knicks",-158,188,"Andre Iguodala",20
+"98","Golden State Warriors","3/5/17",2016,2,4,1,"shot_yes","Jump Shot","3PT Field Goal",24,"New York Knicks",205,136,"Andre Iguodala",20
+"99","Golden State Warriors","3/2/17",2016,4,10,17,"shot_no","Jump Shot","3PT Field Goal",23,"Chicago Bulls",233,-6,"Andre Iguodala",38
+"100","Golden State Warriors","2/15/17",2016,2,8,48,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",1,257,"Andre Iguodala",16
+"101","Golden State Warriors","2/13/17",2016,2,1,14,"shot_no","Jump Shot","3PT Field Goal",23,"Denver Nuggets",232,7,"Andre Iguodala",23
+"102","Golden State Warriors","2/13/17",2016,2,9,31,"shot_no","Jump Shot","3PT Field Goal",25,"Denver Nuggets",161,203,"Andre Iguodala",15
+"103","Golden State Warriors","2/13/17",2016,3,2,27,"shot_no","Jump Shot","3PT Field Goal",25,"Denver Nuggets",-173,183,"Andre Iguodala",34
+"104","Golden State Warriors","2/13/17",2016,3,3,2,"shot_yes","Jump Shot","2PT Field Goal",16,"Denver Nuggets",168,21,"Andre Iguodala",33
+"105","Golden State Warriors","2/13/17",2016,3,0,27,"shot_yes","Jump Shot","3PT Field Goal",25,"Denver Nuggets",200,164,"Andre Iguodala",36
+"106","Golden State Warriors","2/11/17",2016,4,11,26,"shot_no","Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-66,169,"Andre Iguodala",37
+"107","Golden State Warriors","2/11/17",2016,3,2,45,"shot_no","Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",179,169,"Andre Iguodala",34
+"108","Golden State Warriors","2/11/17",2016,1,1,23,"shot_yes","Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-225,-10,"Andre Iguodala",11
+"109","Golden State Warriors","2/11/17",2016,2,7,47,"shot_no","Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",223,38,"Andre Iguodala",17
+"110","Golden State Warriors","2/11/17",2016,4,8,15,"shot_no","Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-143,193,"Andre Iguodala",40
+"111","Golden State Warriors","2/10/17",2016,2,5,22,"shot_yes","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",28,249,"Andre Iguodala",19
+"112","Golden State Warriors","2/10/17",2016,3,3,3,"shot_no","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",186,178,"Andre Iguodala",33
+"113","Golden State Warriors","2/10/17",2016,2,10,22,"shot_yes","Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-227,2,"Andre Iguodala",14
+"114","Golden State Warriors","2/8/17",2016,2,8,42,"shot_no","Jump Shot","3PT Field Goal",26,"Chicago Bulls",64,259,"Andre Iguodala",16
+"115","Golden State Warriors","2/4/17",2016,2,10,42,"shot_no","Jump Shot","3PT Field Goal",23,"Sacramento Kings",-233,31,"Andre Iguodala",14
+"116","Golden State Warriors","2/4/17",2016,4,8,47,"shot_no","Jump Shot","3PT Field Goal",24,"Sacramento Kings",-202,141,"Andre Iguodala",40
+"117","Golden State Warriors","2/4/17",2016,4,10,7,"shot_no","Jump Shot","3PT Field Goal",25,"Sacramento Kings",187,174,"Andre Iguodala",38
+"118","Golden State Warriors","2/4/17",2016,4,4,35,"shot_no","Jump Shot","2PT Field Goal",17,"Sacramento Kings",171,13,"Andre Iguodala",44
+"119","Golden State Warriors","2/2/17",2016,4,0,11,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-174,193,"Andre Iguodala",48
+"120","Golden State Warriors","2/2/17",2016,4,10,3,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-63,249,"Andre Iguodala",38
+"121","Golden State Warriors","2/2/17",2016,3,5,5,"shot_yes","Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-233,3,"Andre Iguodala",31
+"122","Golden State Warriors","2/2/17",2016,4,4,16,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-165,205,"Andre Iguodala",44
+"123","Golden State Warriors","2/1/17",2016,1,0,8,"shot_no","Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-179,193,"Andre Iguodala",12
+"124","Golden State Warriors","1/29/17",2016,4,6,6,"shot_yes","Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-228,46,"Andre Iguodala",42
+"125","Golden State Warriors","1/29/17",2016,2,10,3,"shot_no","Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-225,7,"Andre Iguodala",14
+"126","Golden State Warriors","1/28/17",2016,3,2,3,"shot_yes","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",153,210,"Andre Iguodala",34
+"127","Golden State Warriors","1/28/17",2016,3,5,3,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",182,159,"Andre Iguodala",31
+"128","Golden State Warriors","1/28/17",2016,4,11,40,"shot_no","Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",-12,115,"Andre Iguodala",37
+"129","Golden State Warriors","1/28/17",2016,3,4,31,"shot_no","Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",232,26,"Andre Iguodala",32
+"130","Golden State Warriors","1/25/17",2016,2,10,44,"shot_no","Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-73,134,"Andre Iguodala",14
+"131","Golden State Warriors","1/22/17",2016,4,11,36,"shot_yes","Jump Shot","3PT Field Goal",22,"Orlando Magic",-228,3,"Andre Iguodala",37
+"132","Golden State Warriors","1/22/17",2016,4,10,20,"shot_no","Jump Shot","3PT Field Goal",23,"Orlando Magic",-238,0,"Andre Iguodala",38
+"133","Golden State Warriors","1/22/17",2016,2,3,15,"shot_no","Jump Shot","3PT Field Goal",25,"Orlando Magic",179,188,"Andre Iguodala",21
+"134","Golden State Warriors","1/22/17",2016,2,10,45,"shot_no","Jump Shot","3PT Field Goal",25,"Orlando Magic",125,223,"Andre Iguodala",14
+"135","Golden State Warriors","1/20/17",2016,1,0,26,"shot_no","Jump Shot","2PT Field Goal",14,"Houston Rockets",-137,41,"Andre Iguodala",12
+"136","Golden State Warriors","1/20/17",2016,2,11,33,"shot_yes","Jump Shot","3PT Field Goal",25,"Houston Rockets",-171,183,"Andre Iguodala",13
+"137","Golden State Warriors","1/20/17",2016,2,7,2,"shot_no","Jump Shot","3PT Field Goal",23,"Houston Rockets",238,3,"Andre Iguodala",17
+"138","Golden State Warriors","1/18/17",2016,1,6,38,"shot_yes","Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-73,188,"Andre Iguodala",6
+"139","Golden State Warriors","1/16/17",2016,1,4,23,"shot_yes","Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-205,156,"Andre Iguodala",8
+"140","Golden State Warriors","1/8/17",2016,4,3,6,"shot_yes","Jump Shot","3PT Field Goal",24,"Sacramento Kings",225,97,"Andre Iguodala",45
+"141","Golden State Warriors","1/8/17",2016,1,2,12,"shot_no","Jump Shot","2PT Field Goal",21,"Sacramento Kings",109,185,"Andre Iguodala",10
+"142","Golden State Warriors","1/8/17",2016,3,2,19,"shot_no","Jump Shot","2PT Field Goal",16,"Sacramento Kings",91,139,"Andre Iguodala",34
+"143","Golden State Warriors","1/6/17",2016,4,11,39,"shot_no","Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",132,218,"Andre Iguodala",37
+"144","Golden State Warriors","1/4/17",2016,1,1,58,"shot_yes","Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-129,232,"Andre Iguodala",11
+"145","Golden State Warriors","1/2/17",2016,3,0,13,"shot_no","Jump Shot","3PT Field Goal",23,"Denver Nuggets",-235,8,"Andre Iguodala",36
+"146","Golden State Warriors","12/30/16",2016,2,9,55,"shot_no","Jump Shot","3PT Field Goal",23,"Dallas Mavericks",230,18,"Andre Iguodala",15
+"147","Golden State Warriors","12/30/16",2016,1,0,0,"shot_no","Jump Shot","3PT Field Goal",28,"Dallas Mavericks",-68,277,"Andre Iguodala",12
+"148","Golden State Warriors","12/25/16",2016,2,1,55,"shot_no","Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",230,2,"Andre Iguodala",23
+"149","Golden State Warriors","12/25/16",2016,2,1,22,"shot_no","Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-237,2,"Andre Iguodala",23
+"150","Golden State Warriors","12/23/16",2016,1,4,6,"shot_no","Jump Shot","2PT Field Goal",15,"Detroit Pistons",-137,62,"Andre Iguodala",8
+"151","Golden State Warriors","12/22/16",2016,4,6,56,"shot_yes","Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-179,175,"Andre Iguodala",42
+"152","Golden State Warriors","12/22/16",2016,3,1,39,"shot_yes","Jump Shot","3PT Field Goal",24,"Brooklyn Nets",99,228,"Andre Iguodala",35
+"153","Golden State Warriors","12/22/16",2016,2,1,24,"shot_no","Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-230,-19,"Andre Iguodala",23
+"154","Golden State Warriors","12/22/16",2016,1,4,0,"shot_yes","Jump Shot","2PT Field Goal",18,"Brooklyn Nets",125,139,"Andre Iguodala",8
+"155","Golden State Warriors","12/22/16",2016,3,3,48,"shot_no","Jump Shot","3PT Field Goal",22,"Brooklyn Nets",223,11,"Andre Iguodala",33
+"156","Golden State Warriors","12/22/16",2016,4,9,9,"shot_no","Jump Shot","3PT Field Goal",23,"Brooklyn Nets",233,-15,"Andre Iguodala",39
+"157","Golden State Warriors","12/17/16",2016,1,2,56,"shot_no","Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",122,129,"Andre Iguodala",10
+"158","Golden State Warriors","12/17/16",2016,4,11,4,"shot_yes","Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-65,169,"Andre Iguodala",37
+"159","Golden State Warriors","12/17/16",2016,1,1,49,"shot_no","Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",227,-1,"Andre Iguodala",11
+"160","Golden State Warriors","12/17/16",2016,4,11,40,"shot_yes","Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-9,205,"Andre Iguodala",37
+"161","Golden State Warriors","12/15/16",2016,4,9,15,"shot_no","Jump Shot","3PT Field Goal",23,"New York Knicks",-232,61,"Andre Iguodala",39
+"162","Golden State Warriors","12/13/16",2016,3,0,48,"shot_no","Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-228,7,"Andre Iguodala",36
+"163","Golden State Warriors","12/13/16",2016,4,8,0,"shot_yes","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",123,224,"Andre Iguodala",40
+"164","Golden State Warriors","12/13/16",2016,1,0,0,"shot_no","Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-214,164,"Andre Iguodala",12
+"165","Golden State Warriors","12/13/16",2016,2,2,27,"shot_no","Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",238,8,"Andre Iguodala",22
+"166","Golden State Warriors","12/13/16",2016,2,9,41,"shot_yes","Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",235,105,"Andre Iguodala",15
+"167","Golden State Warriors","12/11/16",2016,2,9,20,"shot_no","Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-76,183,"Andre Iguodala",15
+"168","Golden State Warriors","12/11/16",2016,4,4,33,"shot_yes","Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",215,124,"Andre Iguodala",44
+"169","Golden State Warriors","12/11/16",2016,3,0,0,"shot_no","Jump Shot","3PT Field Goal",47,"Minnesota Timberwolves",-125,457,"Andre Iguodala",36
+"170","Golden State Warriors","12/11/16",2016,4,9,29,"shot_no","Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",232,11,"Andre Iguodala",39
+"171","Golden State Warriors","12/8/16",2016,3,3,5,"shot_no","Jump Shot","2PT Field Goal",18,"Utah Jazz",-168,65,"Andre Iguodala",33
+"172","Golden State Warriors","12/8/16",2016,4,10,4,"shot_no","Jump Shot","3PT Field Goal",24,"Utah Jazz",-202,134,"Andre Iguodala",38
+"173","Golden State Warriors","12/7/16",2016,4,11,13,"shot_no","Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-4,33,"Andre Iguodala",37
+"174","Golden State Warriors","12/7/16",2016,2,2,4,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-240,16,"Andre Iguodala",22
+"175","Golden State Warriors","12/7/16",2016,4,10,6,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",159,200,"Andre Iguodala",38
+"176","Golden State Warriors","12/5/16",2016,2,1,58,"shot_no","Jump Shot","2PT Field Goal",18,"Indiana Pacers",-137,124,"Andre Iguodala",23
+"177","Golden State Warriors","12/3/16",2016,2,8,26,"shot_no","Jump Shot","2PT Field Goal",7,"Phoenix Suns",-74,28,"Andre Iguodala",16
+"178","Golden State Warriors","12/3/16",2016,1,1,48,"shot_no","Jump Shot","2PT Field Goal",17,"Phoenix Suns",135,116,"Andre Iguodala",11
+"179","Golden State Warriors","12/1/16",2016,3,4,39,"shot_no","Jump Shot","3PT Field Goal",23,"Houston Rockets",233,28,"Andre Iguodala",32
+"180","Golden State Warriors","12/1/16",2016,2,4,13,"shot_yes","Jump Shot","3PT Field Goal",23,"Houston Rockets",-227,43,"Andre Iguodala",20
+"181","Golden State Warriors","11/28/16",2016,4,2,28,"shot_no","Jump Shot","3PT Field Goal",22,"Atlanta Hawks",227,23,"Andre Iguodala",46
+"182","Golden State Warriors","11/28/16",2016,3,1,26,"shot_no","Jump Shot","3PT Field Goal",25,"Atlanta Hawks",110,229,"Andre Iguodala",35
+"183","Golden State Warriors","11/28/16",2016,3,0,26,"shot_no","Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-228,21,"Andre Iguodala",36
+"184","Golden State Warriors","11/28/16",2016,4,9,9,"shot_no","Jump Shot","3PT Field Goal",24,"Atlanta Hawks",233,67,"Andre Iguodala",39
+"185","Golden State Warriors","11/26/16",2016,3,3,14,"shot_no","Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",6,43,"Andre Iguodala",33
+"186","Golden State Warriors","11/26/16",2016,2,3,50,"shot_no","Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-181,183,"Andre Iguodala",21
+"187","Golden State Warriors","11/25/16",2016,2,10,31,"shot_yes","Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-153,72,"Andre Iguodala",14
+"188","Golden State Warriors","11/25/16",2016,3,2,45,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",187,163,"Andre Iguodala",34
+"189","Golden State Warriors","11/23/16",2016,3,0,33,"shot_no","Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",236,31,"Andre Iguodala",36
+"190","Golden State Warriors","11/23/16",2016,4,10,49,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",114,232,"Andre Iguodala",38
+"191","Golden State Warriors","11/23/16",2016,2,9,40,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",177,178,"Andre Iguodala",15
+"192","Golden State Warriors","11/21/16",2016,1,1,57,"shot_yes","Jump Shot","3PT Field Goal",24,"Indiana Pacers",212,124,"Andre Iguodala",11
+"193","Golden State Warriors","11/21/16",2016,3,2,29,"shot_yes","Jump Shot","3PT Field Goal",23,"Indiana Pacers",233,-26,"Andre Iguodala",34
+"194","Golden State Warriors","11/21/16",2016,3,4,40,"shot_yes","Jump Shot","3PT Field Goal",23,"Indiana Pacers",232,-11,"Andre Iguodala",32
+"195","Golden State Warriors","11/21/16",2016,2,2,35,"shot_no","Jump Shot","3PT Field Goal",26,"Indiana Pacers",87,247,"Andre Iguodala",22
+"196","Golden State Warriors","11/21/16",2016,3,1,16,"shot_no","Jump Shot","3PT Field Goal",23,"Indiana Pacers",-233,-6,"Andre Iguodala",35
+"197","Golden State Warriors","11/19/16",2016,2,11,17,"shot_yes","Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",212,149,"Andre Iguodala",13
+"198","Golden State Warriors","11/19/16",2016,4,9,47,"shot_no","Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",222,111,"Andre Iguodala",39
+"199","Golden State Warriors","11/19/16",2016,3,0,0,"shot_no","Jump Shot","3PT Field Goal",40,"Milwaukee Bucks",-99,391,"Andre Iguodala",36
+"200","Golden State Warriors","11/19/16",2016,2,2,5,"shot_no","Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",140,100,"Andre Iguodala",22
+"201","Golden State Warriors","11/19/16",2016,2,10,49,"shot_yes","Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-245,2,"Andre Iguodala",14
+"202","Golden State Warriors","11/19/16",2016,4,9,19,"shot_no","Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-238,95,"Andre Iguodala",39
+"203","Golden State Warriors","11/18/16",2016,2,11,46,"shot_no","Jump Shot","2PT Field Goal",16,"Boston Celtics",-47,159,"Andre Iguodala",13
+"204","Golden State Warriors","11/18/16",2016,3,2,19,"shot_no","Jump Shot","3PT Field Goal",25,"Boston Celtics",76,242,"Andre Iguodala",34
+"205","Golden State Warriors","11/16/16",2016,1,5,40,"shot_yes","Jump Shot","3PT Field Goal",25,"Toronto Raptors",-91,239,"Andre Iguodala",7
+"206","Golden State Warriors","11/16/16",2016,4,9,20,"shot_yes","Jump Shot","3PT Field Goal",23,"Toronto Raptors",-237,-11,"Andre Iguodala",39
+"207","Golden State Warriors","11/13/16",2016,4,7,47,"shot_no","Jump Shot","3PT Field Goal",25,"Phoenix Suns",105,228,"Andre Iguodala",41
+"208","Golden State Warriors","11/13/16",2016,2,8,10,"shot_no","Jump Shot","3PT Field Goal",25,"Phoenix Suns",189,169,"Andre Iguodala",16
+"209","Golden State Warriors","11/10/16",2016,2,9,54,"shot_no","Jump Shot","2PT Field Goal",16,"Denver Nuggets",-50,159,"Andre Iguodala",15
+"210","Golden State Warriors","11/10/16",2016,2,2,58,"shot_no","Jump Shot","3PT Field Goal",26,"Denver Nuggets",181,193,"Andre Iguodala",22
+"211","Golden State Warriors","11/9/16",2016,2,11,26,"shot_no","Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-192,185,"Andre Iguodala",13
+"212","Golden State Warriors","11/7/16",2016,1,3,1,"shot_no","Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-238,7,"Andre Iguodala",9
+"213","Golden State Warriors","11/7/16",2016,3,4,32,"shot_no","Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-232,21,"Andre Iguodala",32
+"214","Golden State Warriors","11/7/16",2016,1,2,7,"shot_no","Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-179,174,"Andre Iguodala",10
+"215","Golden State Warriors","11/7/16",2016,2,8,8,"shot_no","Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-183,188,"Andre Iguodala",16
+"216","Golden State Warriors","11/4/16",2016,4,11,42,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-238,31,"Andre Iguodala",37
+"217","Golden State Warriors","11/4/16",2016,2,0,1,"shot_no","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",178,174,"Andre Iguodala",24
+"218","Golden State Warriors","11/4/16",2016,1,0,1,"shot_yes","Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",62,241,"Andre Iguodala",12
+"219","Golden State Warriors","11/4/16",2016,4,10,31,"shot_no","Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-78,184,"Andre Iguodala",38
+"220","Golden State Warriors","11/3/16",2016,4,9,43,"shot_no","Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-230,7,"Andre Iguodala",39
+"221","Golden State Warriors","11/1/16",2016,4,8,33,"shot_yes","Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-63,239,"Andre Iguodala",40
+"222","Golden State Warriors","10/30/16",2016,1,2,39,"shot_no","Jump Shot","3PT Field Goal",26,"Phoenix Suns",-156,213,"Andre Iguodala",10
+"223","Golden State Warriors","10/30/16",2016,4,3,26,"shot_no","Jump Shot","3PT Field Goal",23,"Phoenix Suns",-235,-19,"Andre Iguodala",45
+"224","Golden State Warriors","10/30/16",2016,2,5,8,"shot_no","Jump Shot","3PT Field Goal",23,"Phoenix Suns",230,33,"Andre Iguodala",19
+"225","Golden State Warriors","10/28/16",2016,3,6,23,"shot_yes","Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-227,-5,"Andre Iguodala",30
+"226","Golden State Warriors","10/28/16",2016,3,5,34,"shot_yes","Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",96,134,"Andre Iguodala",31
+"227","Golden State Warriors","10/28/16",2016,4,2,54,"shot_no","Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-233,-1,"Andre Iguodala",46
+"228","Golden State Warriors","10/28/16",2016,3,5,49,"shot_no","Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-233,3,"Andre Iguodala",31
+"229","Golden State Warriors","10/25/16",2016,2,9,7,"shot_no","Jump Shot","3PT Field Goal",23,"San Antonio Spurs",228,72,"Andre Iguodala",15
+"230","Golden State Warriors","10/25/16",2016,2,3,56,"shot_no","Jump Shot","3PT Field Goal",23,"San Antonio Spurs",225,61,"Andre Iguodala",21
+"231","Golden State Warriors","2/28/17",2016,4,4,20,"shot_no","Jump Shot","3PT Field Goal",26,"Washington Wizards",222,136,"Andre Iguodala",44
+"232","Golden State Warriors","2/28/17",2016,2,1,44,"shot_no","Jump Shot","3PT Field Goal",23,"Washington Wizards",236,36,"Andre Iguodala",23
+"233","Golden State Warriors","2/27/17",2016,3,0,0,"shot_no","Jump Shot","3PT Field Goal",49,"Philadelphia 76ers",27,497,"Andre Iguodala",36
+"234","Golden State Warriors","2/25/17",2016,1,0,57,"shot_no","Jump Shot","2PT Field Goal",8,"Brooklyn Nets",-56,70,"Andre Iguodala",12
+"235","Golden State Warriors","2/25/17",2016,2,1,39,"shot_yes","Jump Shot","2PT Field Goal",19,"Brooklyn Nets",112,154,"Andre Iguodala",23
+"236","Golden State Warriors","2/25/17",2016,4,9,19,"shot_no","Jump Shot","3PT Field Goal",22,"Brooklyn Nets",225,41,"Andre Iguodala",39
+"237","Golden State Warriors","2/25/17",2016,1,5,5,"shot_yes","Jump Shot","3PT Field Goal",26,"Brooklyn Nets",137,228,"Andre Iguodala",7
+"238","Golden State Warriors","2/23/17",2016,1,0,5,"shot_no","Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",140,213,"Andre Iguodala",12
+"239","Golden State Warriors","2/23/17",2016,3,3,48,"shot_no","Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-155,218,"Andre Iguodala",33
+"240","Golden State Warriors","2/23/17",2016,4,6,39,"shot_no","Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",133,51,"Andre Iguodala",42
+"241","Golden State Warriors","1/8/17",2016,1,0,2,"shot_no","Layup Shot","2PT Field Goal",3,"Sacramento Kings",28,16,"Andre Iguodala",12
+"242","Golden State Warriors","12/8/16",2016,2,8,6,"shot_no","Layup Shot","2PT Field Goal",1,"Utah Jazz",0,11,"Andre Iguodala",16
+"243","Golden State Warriors","11/1/16",2016,3,5,6,"shot_no","Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",0,11,"Andre Iguodala",31
+"244","Golden State Warriors","12/11/16",2016,4,2,0,"shot_no","Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",9,13,"Andre Iguodala",46
+"245","Golden State Warriors","11/21/16",2016,1,2,34,"shot_no","Layup Shot","2PT Field Goal",1,"Indiana Pacers",9,7,"Andre Iguodala",10
+"246","Golden State Warriors","2/13/17",2016,3,3,42,"shot_yes","Layup Shot","2PT Field Goal",1,"Denver Nuggets",15,2,"Andre Iguodala",33
+"247","Golden State Warriors","11/21/16",2016,2,2,10,"shot_no","Layup Shot","2PT Field Goal",1,"Indiana Pacers",12,7,"Andre Iguodala",22
+"248","Golden State Warriors","1/20/17",2016,1,0,38,"shot_no","Layup Shot","2PT Field Goal",2,"Houston Rockets",4,26,"Andre Iguodala",12
+"249","Golden State Warriors","1/2/17",2016,2,11,28,"shot_yes","Layup Shot","2PT Field Goal",1,"Denver Nuggets",-9,7,"Andre Iguodala",13
+"250","Golden State Warriors","3/29/17",2016,1,5,24,"shot_no","Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-12,-6,"Andre Iguodala",7
+"251","Golden State Warriors","11/13/16",2016,3,1,54,"shot_no","Layup Shot","2PT Field Goal",1,"Phoenix Suns",-9,8,"Andre Iguodala",35
+"252","Golden State Warriors","10/28/16",2016,1,3,48,"shot_no","Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",6,8,"Andre Iguodala",9
+"253","Golden State Warriors","3/20/17",2016,2,5,3,"shot_no","Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",27,2,"Andre Iguodala",19
+"254","Golden State Warriors","11/18/16",2016,4,8,27,"shot_no","Layup Shot","2PT Field Goal",2,"Boston Celtics",-22,8,"Andre Iguodala",40
+"255","Golden State Warriors","3/16/17",2016,4,8,39,"shot_no","Layup Shot","2PT Field Goal",1,"Orlando Magic",-11,13,"Andre Iguodala",40
+"256","Golden State Warriors","12/7/16",2016,4,8,11,"shot_yes","Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-20,18,"Andre Iguodala",40
+"257","Golden State Warriors","2/2/17",2016,3,1,26,"shot_no","Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",4,8,"Andre Iguodala",35
+"258","Golden State Warriors","11/28/16",2016,3,2,14,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Atlanta Hawks",-235,26,"Andre Iguodala",34
+"259","Golden State Warriors","11/23/16",2016,4,8,30,"shot_yes","Pullup Jump shot","2PT Field Goal",19,"Los Angeles Lakers",78,178,"Andre Iguodala",40
+"260","Golden State Warriors","12/20/16",2016,2,10,25,"shot_yes","Pullup Jump shot","3PT Field Goal",24,"Utah Jazz",233,77,"Andre Iguodala",14
+"261","Golden State Warriors","11/23/16",2016,4,7,54,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Los Angeles Lakers",-181,174,"Andre Iguodala",41
+"262","Golden State Warriors","12/17/16",2016,2,8,52,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Portland Trail Blazers",64,257,"Andre Iguodala",16
+"263","Golden State Warriors","2/23/17",2016,2,8,28,"shot_no","Pullup Jump shot","2PT Field Goal",18,"Los Angeles Clippers",-137,129,"Andre Iguodala",16
+"264","Golden State Warriors","2/15/17",2016,3,1,3,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Sacramento Kings",-227,41,"Andre Iguodala",35
+"265","Golden State Warriors","3/6/17",2016,3,2,23,"shot_yes","Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",104,131,"Andre Iguodala",34
+"266","Golden State Warriors","3/29/17",2016,3,1,19,"shot_yes","Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",64,144,"Andre Iguodala",35
+"267","Golden State Warriors","3/14/17",2016,1,1,27,"shot_yes","Pullup Jump shot","3PT Field Goal",22,"Philadelphia 76ers",228,3,"Andre Iguodala",11
+"268","Golden State Warriors","12/11/16",2016,4,2,43,"shot_no","Pullup Jump shot","2PT Field Goal",21,"Minnesota Timberwolves",-166,134,"Andre Iguodala",46
+"269","Golden State Warriors","12/8/16",2016,3,3,41,"shot_yes","Pullup Jump shot","2PT Field Goal",17,"Utah Jazz",78,156,"Andre Iguodala",33
+"270","Golden State Warriors","4/4/17",2016,2,9,35,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Minnesota Timberwolves",227,62,"Andre Iguodala",15
+"271","Golden State Warriors","3/31/17",2016,1,4,9,"shot_yes","Pullup Jump shot","2PT Field Goal",20,"Houston Rockets",99,174,"Andre Iguodala",8
+"272","Golden State Warriors","1/29/17",2016,3,0,29,"shot_yes","Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",79,234,"Andre Iguodala",36
+"273","Golden State Warriors","1/29/17",2016,3,0,56,"shot_yes","Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",30,244,"Andre Iguodala",36
+"274","Golden State Warriors","3/26/17",2016,2,7,17,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Memphis Grizzlies",-235,23,"Andre Iguodala",17
+"275","Golden State Warriors","3/28/17",2016,3,0,27,"shot_no","Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",125,214,"Andre Iguodala",36
+"276","Golden State Warriors","12/3/16",2016,1,2,43,"shot_yes","Pullup Jump shot","2PT Field Goal",18,"Phoenix Suns",119,144,"Andre Iguodala",10
+"277","Golden State Warriors","12/3/16",2016,4,11,10,"shot_yes","Pullup Jump shot","3PT Field Goal",27,"Phoenix Suns",-187,198,"Andre Iguodala",37
+"278","Golden State Warriors","1/22/17",2016,4,3,15,"shot_no","Pullup Jump shot","2PT Field Goal",19,"Orlando Magic",197,23,"Andre Iguodala",45
+"279","Golden State Warriors","12/1/16",2016,1,3,47,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-158,203,"Andre Iguodala",9
+"280","Golden State Warriors","1/16/17",2016,1,0,45,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Cleveland Cavaliers",-232,28,"Andre Iguodala",12
+"281","Golden State Warriors","11/28/16",2016,1,3,27,"shot_yes","Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",-174,193,"Andre Iguodala",9
+"282","Golden State Warriors","3/18/17",2016,3,2,41,"shot_yes","Pullup Jump shot","3PT Field Goal",23,"Milwaukee Bucks",228,61,"Andre Iguodala",34
+"283","Golden State Warriors","12/30/16",2016,1,1,27,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",-184,174,"Andre Iguodala",11
+"284","Golden State Warriors","3/29/17",2016,1,0,1,"shot_yes","Pullup Jump shot","2PT Field Goal",19,"San Antonio Spurs",169,106,"Andre Iguodala",12
+"285","Golden State Warriors","11/13/16",2016,2,11,8,"shot_yes","Pullup Jump shot","3PT Field Goal",26,"Phoenix Suns",210,159,"Andre Iguodala",13
+"286","Golden State Warriors","3/18/17",2016,3,4,7,"shot_yes","Pullup Jump shot","2PT Field Goal",17,"Milwaukee Bucks",133,110,"Andre Iguodala",32
+"287","Golden State Warriors","3/18/17",2016,3,10,8,"shot_yes","Pullup Jump shot","2PT Field Goal",21,"Milwaukee Bucks",153,149,"Andre Iguodala",26
+"288","Golden State Warriors","3/18/17",2016,1,4,19,"shot_no","Pullup Jump shot","3PT Field Goal",25,"Milwaukee Bucks",-201,164,"Andre Iguodala",8
+"289","Golden State Warriors","3/18/17",2016,1,5,22,"shot_yes","Pullup Jump shot","2PT Field Goal",11,"Milwaukee Bucks",-25,110,"Andre Iguodala",7
+"290","Golden State Warriors","3/18/17",2016,3,1,45,"shot_no","Pullup Jump shot","3PT Field Goal",23,"Milwaukee Bucks",232,-15,"Andre Iguodala",35
+"291","Golden State Warriors","3/29/17",2016,3,2,1,"shot_yes","Pullup Jump shot","2PT Field Goal",20,"San Antonio Spurs",181,95,"Andre Iguodala",34
+"292","Golden State Warriors","12/8/16",2016,2,8,41,"shot_yes","Putback Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,"Andre Iguodala",16
+"293","Golden State Warriors","11/19/16",2016,4,3,39,"shot_yes","Putback Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,"Andre Iguodala",45
+"294","Golden State Warriors","2/11/17",2016,1,4,25,"shot_no","Putback Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Andre Iguodala",8
+"295","Golden State Warriors","3/16/17",2016,3,5,51,"shot_yes","Putback Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,"Andre Iguodala",31
+"296","Golden State Warriors","11/18/16",2016,4,8,25,"shot_yes","Putback Layup Shot","2PT Field Goal",2,"Boston Celtics",-20,7,"Andre Iguodala",40
+"297","Golden State Warriors","10/30/16",2016,4,9,48,"shot_yes","Putback Layup Shot","2PT Field Goal",1,"Phoenix Suns",9,8,"Andre Iguodala",39
+"298","Golden State Warriors","2/15/17",2016,4,9,46,"shot_yes","Putback Layup Shot","2PT Field Goal",1,"Sacramento Kings",0,13,"Andre Iguodala",39
+"299","Golden State Warriors","2/4/17",2016,4,2,35,"shot_yes","Reverse Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Andre Iguodala",46
+"300","Golden State Warriors","12/7/16",2016,2,9,53,"shot_yes","Reverse Dunk Shot","2PT Field Goal",2,"Los Angeles Clippers",19,16,"Andre Iguodala",15
+"301","Golden State Warriors","2/27/17",2016,3,0,47,"shot_yes","Reverse Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,"Andre Iguodala",36
+"302","Golden State Warriors","1/6/17",2016,2,3,28,"shot_yes","Reverse Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Andre Iguodala",21
+"303","Golden State Warriors","3/14/17",2016,2,0,37,"shot_no","Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-7,8,"Andre Iguodala",24
+"304","Golden State Warriors","2/28/17",2016,2,9,29,"shot_yes","Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",-19,16,"Andre Iguodala",15
+"305","Golden State Warriors","3/16/17",2016,2,8,3,"shot_yes","Running Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,"Andre Iguodala",16
+"306","Golden State Warriors","11/23/16",2016,4,10,2,"shot_yes","Running Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,"Andre Iguodala",38
+"307","Golden State Warriors","3/24/17",2016,3,3,28,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Andre Iguodala",33
+"308","Golden State Warriors","2/1/17",2016,1,5,2,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,"Andre Iguodala",7
+"309","Golden State Warriors","3/26/17",2016,3,2,8,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Andre Iguodala",34
+"310","Golden State Warriors","12/1/16",2016,1,8,50,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Andre Iguodala",4
+"311","Golden State Warriors","1/20/17",2016,2,1,28,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,"Andre Iguodala",23
+"312","Golden State Warriors","11/16/16",2016,4,11,6,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,"Andre Iguodala",37
+"313","Golden State Warriors","3/16/17",2016,3,1,51,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,"Andre Iguodala",35
+"314","Golden State Warriors","12/28/16",2016,1,0,36,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,"Andre Iguodala",12
+"315","Golden State Warriors","3/16/17",2016,2,9,15,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,"Andre Iguodala",15
+"316","Golden State Warriors","3/26/17",2016,4,1,43,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Andre Iguodala",47
+"317","Golden State Warriors","3/6/17",2016,1,3,28,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",2,2,"Andre Iguodala",9
+"318","Golden State Warriors","2/11/17",2016,1,2,41,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,"Andre Iguodala",10
+"319","Golden State Warriors","2/10/17",2016,2,0,28,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Andre Iguodala",24
+"320","Golden State Warriors","3/14/17",2016,2,8,10,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,"Andre Iguodala",16
+"321","Golden State Warriors","2/10/17",2016,4,4,39,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,"Andre Iguodala",44
+"322","Golden State Warriors","3/14/17",2016,3,7,4,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,"Andre Iguodala",29
+"323","Golden State Warriors","12/15/16",2016,1,4,13,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,"Andre Iguodala",8
+"324","Golden State Warriors","3/18/17",2016,3,6,3,"shot_yes","Running Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,"Andre Iguodala",30
+"325","Golden State Warriors","4/4/17",2016,1,1,26,"shot_yes","Running Finger Roll Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",2,21,"Andre Iguodala",11
+"326","Golden State Warriors","12/15/16",2016,2,9,59,"shot_yes","Running Finger Roll Layup Shot","2PT Field Goal",1,"New York Knicks",-11,8,"Andre Iguodala",15
+"327","Golden State Warriors","3/2/17",2016,2,9,25,"shot_yes","Running Jump Shot","2PT Field Goal",3,"Chicago Bulls",-4,31,"Andre Iguodala",15
+"328","Golden State Warriors","3/26/17",2016,2,10,6,"shot_yes","Running Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",1,43,"Andre Iguodala",14
+"329","Golden State Warriors","2/23/17",2016,1,0,54,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-14,13,"Andre Iguodala",12
+"330","Golden State Warriors","1/16/17",2016,2,9,27,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-16,16,"Andre Iguodala",15
+"331","Golden State Warriors","12/25/16",2016,4,10,34,"shot_no","Running Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",14,2,"Andre Iguodala",38
+"332","Golden State Warriors","1/29/17",2016,1,3,54,"shot_no","Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-12,11,"Andre Iguodala",9
+"333","Golden State Warriors","1/29/17",2016,2,11,25,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",12,-5,"Andre Iguodala",13
+"334","Golden State Warriors","11/23/16",2016,2,2,19,"shot_no","Running Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-7,3,"Andre Iguodala",22
+"335","Golden State Warriors","11/10/16",2016,1,0,12,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Denver Nuggets",10,23,"Andre Iguodala",12
+"336","Golden State Warriors","11/18/16",2016,1,4,4,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Boston Celtics",4,7,"Andre Iguodala",8
+"337","Golden State Warriors","11/3/16",2016,1,4,42,"shot_no","Running Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-4,18,"Andre Iguodala",8
+"338","Golden State Warriors","11/28/16",2016,4,11,11,"shot_yes","Running Layup Shot","2PT Field Goal",0,"Atlanta Hawks",1,7,"Andre Iguodala",37
+"339","Golden State Warriors","2/15/17",2016,2,10,55,"shot_no","Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",9,16,"Andre Iguodala",14
+"340","Golden State Warriors","1/4/17",2016,4,7,9,"shot_no","Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",14,13,"Andre Iguodala",41
+"341","Golden State Warriors","3/2/17",2016,1,2,10,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Chicago Bulls",6,11,"Andre Iguodala",10
+"342","Golden State Warriors","11/1/16",2016,3,1,55,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",12,11,"Andre Iguodala",35
+"343","Golden State Warriors","12/5/16",2016,1,2,45,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Indiana Pacers",20,21,"Andre Iguodala",10
+"344","Golden State Warriors","3/31/17",2016,4,7,7,"shot_yes","Running Layup Shot","2PT Field Goal",2,"Houston Rockets",-6,23,"Andre Iguodala",41
+"345","Golden State Warriors","11/1/16",2016,2,1,0,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",19,0,"Andre Iguodala",23
+"346","Golden State Warriors","3/24/17",2016,1,0,58,"shot_yes","Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",0,16,"Andre Iguodala",12
+"347","Golden State Warriors","3/14/17",2016,3,4,5,"shot_no","Running Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",0,11,"Andre Iguodala",32
+"348","Golden State Warriors","3/24/17",2016,3,0,37,"shot_yes","Running Reverse Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,"Andre Iguodala",36
+"349","Golden State Warriors","3/16/17",2016,3,4,39,"shot_yes","Running Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",-1,16,"Andre Iguodala",32
+"350","Golden State Warriors","2/1/17",2016,4,5,31,"shot_yes","Running Reverse Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-1,23,"Andre Iguodala",43
+"351","Golden State Warriors","3/14/17",2016,4,7,11,"shot_no","Running Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-11,16,"Andre Iguodala",41
+"352","Golden State Warriors","12/20/16",2016,4,7,32,"shot_no","Running Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",17,3,"Andre Iguodala",41
+"353","Golden State Warriors","4/4/17",2016,3,3,46,"shot_yes","Running Reverse Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",4,13,"Andre Iguodala",33
+"354","Golden State Warriors","2/2/17",2016,4,9,48,"shot_yes","Running Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",9,13,"Andre Iguodala",39
+"355","Golden State Warriors","3/14/17",2016,2,10,14,"shot_no","Step Back Jump shot","2PT Field Goal",9,"Philadelphia 76ers",1,90,"Andre Iguodala",14
+"356","Golden State Warriors","3/18/17",2016,1,7,52,"shot_no","Step Back Jump shot","2PT Field Goal",16,"Milwaukee Bucks",-158,52,"Andre Iguodala",5
+"357","Golden State Warriors","3/28/17",2016,3,6,9,"shot_no","Step Back Jump shot","2PT Field Goal",18,"Houston Rockets",-181,41,"Andre Iguodala",30
+"358","Golden State Warriors","2/2/17",2016,3,1,24,"shot_no","Tip Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,"Andre Iguodala",35
+"359","Golden State Warriors","3/31/17",2016,3,4,12,"shot_yes","Tip Layup Shot","2PT Field Goal",1,"Houston Rockets",4,11,"Andre Iguodala",32
+"360","Golden State Warriors","1/25/17",2016,2,3,14,"shot_yes","Tip Layup Shot","2PT Field Goal",0,"Charlotte Hornets",1,2,"Andre Iguodala",21
+"361","Golden State Warriors","11/10/16",2016,3,1,9,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",16,"Denver Nuggets",-168,2,"Andre Iguodala",35
+"362","Golden State Warriors","3/28/17",2016,1,0,45,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",11,"Houston Rockets",89,77,"Andre Iguodala",12
+"363","Golden State Warriors","11/25/16",2016,3,3,22,"shot_no","Turnaround Fadeaway shot","2PT Field Goal",11,"Los Angeles Lakers",0,119,"Andre Iguodala",33
+"364","Golden State Warriors","1/4/17",2016,3,0,54,"shot_yes","Turnaround Fadeaway shot","2PT Field Goal",16,"Portland Trail Blazers",-168,16,"Andre Iguodala",36
+"365","Golden State Warriors","12/20/16",2016,1,0,0,"shot_no","Turnaround Hook Shot","2PT Field Goal",3,"Utah Jazz",-7,33,"Andre Iguodala",12
+"366","Golden State Warriors","1/18/17",2016,4,7,30,"shot_no","Turnaround Hook Shot","2PT Field Goal",4,"Oklahoma City Thunder",-7,47,"Andre Iguodala",41
+"367","Golden State Warriors","2/2/17",2016,2,11,40,"shot_no","Turnaround Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",-38,95,"Andre Iguodala",13
+"368","Golden State Warriors","1/18/17",2016,4,10,41,"shot_yes","Turnaround Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",20,26,"Andre Iguodala",38
+"369","Golden State Warriors","11/1/16",2016,3,2,23,"shot_yes","Turnaround Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",-212,-16,"Andre Iguodala",34
+"370","Golden State Warriors","3/26/17",2016,2,2,38,"shot_yes","Turnaround Jump Shot","2PT Field Goal",8,"Memphis Grizzlies",0,85,"Andre Iguodala",22
+"371","Golden State Warriors","11/19/16",2016,1,2,7,"shot_yes","Turnaround Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",181,-19,"Andre Iguodala",10
