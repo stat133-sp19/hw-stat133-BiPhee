@@ -4,7 +4,7 @@ Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - Name:  JungHun Phee (first last)
 - Github username: BiPhee
-- Email: pjh961018@berkeley.edu
+- Email: pheeeeee@yonsei.ac.kr
 - Lab section: 104
 - GSI: collin 
 
